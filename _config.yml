@@ -58,8 +58,8 @@ plugins:
 
 author:
   name   : "Stacy Cohl"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Sculptor, live-caster, archeological preservationist."
+  avatar : "/assets/images/me_with_emily_cast.jpg"
+  bio    : "Sculptor, life-caster, archeological preservationist."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
