@@ -7,3 +7,7 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+    - title: "Portfolio"
+    url: /portfolio/
+    - title: "Test"
+    url: /test-baz-boom-identity/
