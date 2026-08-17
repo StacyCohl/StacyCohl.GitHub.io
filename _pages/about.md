@@ -3,6 +3,9 @@ permalink: /about/
 title: "About"
 ---
 
-![me with Katie](/assets/images/me_molding_katie_sm.jpg)
+<figure>
+  <img src="/assets/images/me_molding_katie_sm.jpg" alt="me molding Katie" width="<300>" height="<600>">  
+  <figcaption>This is a caption for the image.</figcaption>
+</figure>
 
-It's not torture! It's fun!
+This is body copy
