@@ -1,0 +1,35 @@
+---
+layout: page
+title: "Life casting" 
+date: 2026-17-08
+categories: blog
+tags: blog
+gallery:
+  - url: /assets/images/dead_hand_1_sm.jpeg
+    image_path: /assets/images/dead_hand_1_sm.jpeg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/images/dead_hand_2_sm.jpeg
+    image_path: /assets/images/dead_hand_2_sm.jpeg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: /assets/images/dead_hand_3_sm.jpeg
+    image_path: /assets/dead_hand_3_sm.jpeg
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+
+  - url: /assets/images/face_in_a_box_1_sm.jpeg
+    image_path: /assets/images/face_in_a_box_1_sm.jpeg
+    alt: "placeholder image 4"
+    title: "Image 4 title caption"
+  - url: /assets/images/face_in_a_box_2_sm.jpeg
+    image_path: /assets/images/face_in_a_box_2_sm.jpeg
+    alt: "placeholder image 5"
+    title: "Image 5 title caption"
+
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+---
+
+##Here is a subheading
