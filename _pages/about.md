@@ -8,4 +8,4 @@ title: "About"
   <figcaption>This is a caption for the image.</figcaption>
 </figure>
 
-This is body copy
+This is body copy?
