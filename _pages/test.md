@@ -2,7 +2,7 @@
 title: "Test"
 excerpt: "This is a test. Please remain calm"
 permalink: /test/
-header:
+#header:
 #  image: /assets/images/me_molding_katie_sm.jpg
 #  teaser: assets/images/me_molding_katie_sm.jpg
 sidebar:
