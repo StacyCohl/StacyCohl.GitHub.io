@@ -1,8 +1,6 @@
 main:
   - title: "Posts"
     url: /posts/
-  - title: "Portfolio"
-    url: /portfolio/
   - title: "Lifecasting"
     url: /lifecasting/
   - title: "Minis & Scenic"
