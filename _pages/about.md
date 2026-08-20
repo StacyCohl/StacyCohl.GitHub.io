@@ -4,7 +4,7 @@ title: "About"
 ---
 
 <figure>
-  <img src="/assets/images/me_molding_katie_sm.jpg" alt="Process pic showing Stacy with exaggerated smile giving thumbs up and the model, a young woman with brown hair and freckles, also giving a thumbs up while the lower half of her face is covered in an alginate and plaster bandage mold" width="300" height="600">  
+  <img src="/assets/images/me_molding_katie_sm.jpg" alt="Process pic showing Stacy with exaggerated smile giving thumbs up and the model, a young woman with brown hair and freckles, also giving a thumbs up while the lower half of her face is covered in an alginate and plaster bandage mold" width="300">  
   <figcaption>Being molded is fun and in no way unsettling!</figcaption>
 </figure>
 
