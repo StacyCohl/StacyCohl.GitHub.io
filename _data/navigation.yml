@@ -3,8 +3,8 @@ main:
     url: /posts/
   - title: "Portfolio"
     url: /portfolio/
-  - title: "Test"
-    url: /test/
+  - title: "Lifecasting"
+    url: /lifecasting/
   - title: "Minis & Scenic"
     url: /miniatures/
   - title: "Categories"
