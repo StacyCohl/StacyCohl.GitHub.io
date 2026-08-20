@@ -5,13 +5,6 @@ permalink: /test/
 #header:
 #  image: /assets/images/me_molding_katie_sm.jpg
 #  teaser: assets/images/me_molding_katie_sm.jpg
-sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
   - url: /assets/images/face_in_a_box_1_sm.jpeg
     image_path: assets/images/face_in_a_box_1_sm.jpeg
