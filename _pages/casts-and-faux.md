@@ -7,7 +7,7 @@ permalink: /casts-and-faux/
 #  teaser: assets/images/me_molding_katie_sm.jpg
 gallery:
   - url: /assets/images/baby_brain_planter_mold_sm.jpeg
-    image_path: baby_brain_planter_mold_sm.jpeg
+    image_path: assets/images/baby_brain_planter_mold_sm.jpeg
     alt: "Baby Brain"
   - url: /assets/images/baby_brain_planter_redtwins_sm.jpeg
     image_path: assets/images/baby_brain_planter_redtwins_sm.jpeg
