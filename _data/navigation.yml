@@ -5,8 +5,8 @@ main:
     url: /portfolio/
   - title: "Test"
     url: /test/
-  - title: "Categories"
-    url: /categories/
+  - title: "Miniatures"
+    url: /miniatures/
   - title: "Tags"
     url: /tags/
   - title: "About"
