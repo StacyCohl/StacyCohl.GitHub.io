@@ -1,7 +1,7 @@
 ---
-title: "Test"
+title: "Lifecasting"
 excerpt: "This is a test. Please remain calm"
-permalink: /test/
+permalink: /lifecasting/
 #header:
 #  image: /assets/images/me_molding_katie_sm.jpg
 #  teaser: assets/images/me_molding_katie_sm.jpg
