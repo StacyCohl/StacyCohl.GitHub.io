@@ -59,26 +59,26 @@ plugins:
 author:
   name   : "Stacy Cohl"
   avatar : "/assets/images/me_with_emily_cast_sm.jpg"
-  bio    : "Sculptor, life-caster, archeological preservationist."
+  bio    : "Lifecasting, scenic recreation, object reproduction & conservation"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://stacycohl.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/stacycohl"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/stacymakerofworlds"
-
-footer:
-  links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/stacycohl"
+    
+footer:
+  links:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/StacyMakerofWorlds"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/stacycohl"
 
 defaults:
   # _posts
