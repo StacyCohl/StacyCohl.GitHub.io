@@ -1,15 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
   - title: "Lifecasting"
     url: /lifecasting/
   - title: "Minis & Scenic"
     url: /miniatures/
   - title: "Casts & Faux"
     url: /casts-and-faux/    
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
