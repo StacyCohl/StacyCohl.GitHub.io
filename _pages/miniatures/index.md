@@ -36,12 +36,12 @@ gallery:
   - url: /assets/images/tiny_candle_finger_sm.jpeg
     image_path: assets/images/tiny_candle_finger_sm.jpeg
     alt: "Love and Graves 3"
-  - url: /assets/images/tiny_candle_man_sm.jpeg
-    image_path: assets/images/tiny_candle_man_sm.jpeg
-    alt: "Love and Graves 3"
   - url: /assets/images/tiny_candle_shelf_sm.jpeg
     image_path: assets/images/tiny_candle_shelf_sm.jpeg
-    alt: "Love and Graves 3"                                    
+    alt: "Love and Graves 3"    
+  - url: /assets/images/tiny_candle_man_sm.jpeg
+    image_path: assets/images/tiny_candle_man_sm.jpeg
+    alt: "Love and Graves 3"                                
 ---
 
 {% include gallery caption="Polymer clay, sheet moss, copper wire, a 17th century folk song." %}
