@@ -32,12 +32,12 @@ gallery3:
     image_path: assets/images/life/dead_hand_1_thumb.jpeg
     alt: "dead"
     title: "dead"
-  - url: /assets/images/life/dead_hand_2_large.jpeg
-    image_path: assets/images/life/dead_hand_2_thumb.jpeg
-    alt: "dead"
-    title: "dead"
   - url: /assets/images/life/dead_hand_3_large.jpeg
     image_path: assets/images/life/dead_hand_3_thumb.jpeg
+    alt: "dead"
+    title: "dead"
+  - url: /assets/images/life/dead_hand_2_large.jpeg
+    image_path: assets/images/life/dead_hand_2_thumb.jpeg
     alt: "dead"
     title: "dead"
 gallery4:
@@ -53,8 +53,8 @@ gallery4:
     image_path: assets/images/life/blow_the_candle_holder_3_thumb.jpeg
     alt: "blow"
     title: "blow"
-  - url: /assets/images/life/blow_the_candle_holder_4_large.jpeg
-    image_path: assets/images/life/blow_the_candle_holder_4_thumb.jpeg
+  - url: /assets/images/life/blow_the_candle_holder_enfuego_large.jpeg
+    image_path: assets/images/life/blow_the_candle_holder_enfuego_thumb.jpeg
     alt: "blow"
     title: "blow"
 gallery5:
@@ -103,7 +103,7 @@ gallery7:
 
 ## Captured Marble
 
-{% include gallery id="gallery2" %}
+{% include gallery id="gallery2" layout="half" %}
 
 ## Dead Hand
 
@@ -111,7 +111,7 @@ gallery7:
 
 ## Blow The Candle Holder
 
-{% include gallery id="gallery4" %}
+{% include gallery id="gallery4" layout="half" %}
 
 ## FriendFace
 
