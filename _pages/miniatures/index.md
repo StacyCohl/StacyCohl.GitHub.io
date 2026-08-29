@@ -45,7 +45,7 @@ gallery2:
     title: "Water’s edge on the left of the scene, showing high flood rings and stunted tree growth"
 gallery3:    
   - url: /assets/images/taper/tiny_candle_finger_large.jpeg
-    image_path: assets/images/wetland/tiny_candle_finger_small.jpeg
+    image_path: assets/images/taper/tiny_candle_finger_small.jpeg
     alt: "taper"
     title: "Painted toothpick candle with thread wick, polymer clay holder (small-ish hand for scale)"
   - url: /assets/images/taper/tiny_candle_shelf_large.jpeg
