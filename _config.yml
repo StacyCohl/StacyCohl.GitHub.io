@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "Stacy Cohl"
-  avatar : "/assets/images/me_with_emily_cast_sm.jpg"
+  avatar : "/assets/images/about/me_with_emily_cast_small.jpg"
   bio    : "Lifecasting, scenic recreation, object reproduction & conservation"
   links:
     - label: "Website"
