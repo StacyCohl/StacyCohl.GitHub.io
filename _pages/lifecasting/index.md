@@ -99,7 +99,7 @@ gallery7:
 ---
 ## FaceBox
 
-{% include gallery id="gallery1" %}
+{% include gallery id="gallery1" layout="half" %}
 
 ## Captured Marble
 
@@ -107,7 +107,7 @@ gallery7:
 
 ## Dead Hand
 
-{% include gallery id="gallery3" %}
+{% include gallery id="gallery3" layout="half" %}
 
 ## Blow The Candle Holder
 
@@ -115,12 +115,12 @@ gallery7:
 
 ## FriendFace
 
-{% include gallery id="gallery5" %}
+{% include gallery id="gallery5" layout="half" %}
 
 ## Nearly Smiling
 
-{% include gallery id="gallery6" %}
+{% include gallery id="gallery6" layout="half" %}
 
 ## Proofs Of Life
 
-{% include gallery id="gallery7" %}
+{% include gallery id="gallery7" layout="half" %}
