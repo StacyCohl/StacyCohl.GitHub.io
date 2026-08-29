@@ -57,9 +57,9 @@ gallery3:
     alt: "taper"
     title: "1/12th scale bookcase with new owner (5’9” adult hands for scale)"                     
 ---
+> page description here
 
 ## Winter Wonder Wetland
-> explanation as a block quote?
 
 {% include gallery id="gallery2" caption="Mini wetland made from trash, fiber optic filament, and whimsy" %}
 
