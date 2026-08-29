@@ -27,6 +27,10 @@ gallery2:
     image_path: assets/images/wetland/mini_swamp_2_small.jpeg
     alt: "swamp"
     title: "less high shot front"
+  - url: /assets/images/wetland/mini_swamp_5_large.jpeg
+    image_path: assets/images/wetland/mini_swamp_5_small.jpeg
+    alt: "swamp"
+    title: "Close-up of recent beaver tooth marks on copse of young trees"
   - url: /assets/images/wetland/mini_swamp_3_large.jpeg
     image_path: assets/images/wetland/mini_swamp_3_small.jpeg
     alt: "swamp"
@@ -35,10 +39,6 @@ gallery2:
     image_path: assets/images/wetland/mini_swamp_vine_small.jpeg
     alt: "swamp"
     title: "Tree showing callus tissue formation after beaver damage. Grasses made with chip brush bristles, twine for the vine(s)"
-  - url: /assets/images/wetland/mini_swamp_5_large.jpeg
-    image_path: assets/images/wetland/mini_swamp_5_small.jpeg
-    alt: "swamp"
-    title: "Close-up of recent beaver tooth marks on copse of young trees"
   - url: /assets/images/wetland/mini_swamp_6_large.jpeg
     image_path: assets/images/wetland/mini_swamp_6_small.jpeg
     alt: "swamp"
