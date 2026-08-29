@@ -60,7 +60,7 @@ gallery3:
 
 Winter Wonder Wetland
 
-{% include gallery id="2" %}
+{% include gallery id="gallery2" %}
 
 Love and Graves
 
