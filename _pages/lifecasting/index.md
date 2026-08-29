@@ -6,100 +6,96 @@ permalink: /lifecasting/
 #  image: /assets/images/me_molding_katie_sm.jpg
 #  teaser: assets/images/me_molding_katie_sm.jpg
 gallery1:
-  - url: /assets/images/captured_marble_hand_1_sm.jpeg
-    image_path: assets/images/captured_marble_hand_1_sm.jpeg
+  - url: /assets/images/life/face_in_a_box_2_large.jpeg
+    image_path: assets/images/life/face_in_a_box_2_thumb.jpeg
     alt: "FaceBox"
-    title:
-  - url: /assets/images/captured_marble_hand_2_sm.jpeg
-    image_path: assets/images/captured_marble_hand_2_sm.jpeg
+    title: "FaceBox"
+  - url: /assets/images/life/face_in_a_box_1_large.jpeg
+    image_path: assets/images/life/face_in_a_box_1_thumb.jpeg
     alt: "FaceBox"
-    title:
+    title: "FaceBox"
 gallery2:    
-  - url: /assets/images/captured_marble_hand_3_sm.jpeg
-    image_path: assets/images/captured_marble_hand_3_sm.jpeg
+  - url: /assets/images/life/captured_marble_hand_1_large.jpeg
+    image_path: assets/images/life/captured_marble_hand_1_thumb.jpeg
     alt: "captured_marble"
-    title:
-  - url: /assets/images/face_in_a_box_1_sm.jpeg
-    image_path: assets/images/face_in_a_box_2_sm.jpeg
+    title: "captured_marble"
+  - url: /assets/images/life/captured_marble_hand_2_large.jpeg
+    image_path: assets/images/life/captured_marble_hand_2_thumb.jpeg
     alt: "captured_marble"
-    title:
-  - url: /assets/images/face_in_a_box_1_sm.jpeg
-    image_path: assets/images/face_in_a_box_2_sm.jpeg
+    title: "captured_marble"
+  - url: /assets/images/life/captured_marble_hand_3_large.jpeg
+    image_path: assets/images/life/captured_marble_hand_3_thumb.jpeg
     alt: "captured_marble"
-    title:
+    title: "captured_marble"
 gallery3:   
-  - url: /assets/images/face_in_a_box_1_sm.jpeg
-    image_path: assets/images/face_in_a_box_1_sm.jpeg
+  - url: /assets/images/life/dead_hand_1_large.jpeg
+    image_path: assets/images/life/dead_hand_1_thumb.jpeg
     alt: "dead"
-    title:
-  - url: /assets/images/blow_the_candle_holder_2_sm.jpeg
-    image_path: assets/images/blow_the_candle_holder_2_sm.jpeg
+    title: "dead"
+  - url: /assets/images/life/dead_hand_2_large.jpeg
+    image_path: assets/images/life/dead_hand_2_thumb.jpeg
     alt: "dead"
-    title:
-  - url: /assets/images/blow_the_candle_holder_3_sm.jpeg
-    image_path: assets/images/blow_the_candle_holder_3_sm.jpeg
+    title: "dead"
+  - url: /assets/images/life/dead_hand_3_large.jpeg
+    image_path: assets/images/life/dead_hand_3_thumb.jpeg
     alt: "dead"
-    title:
+    title: "dead"
 gallery4:
-  - url: /assets/images/birdie_finger_sm.jpeg
-    image_path: assets/images/birdie_finger_sm.jpeg
+  - url: /assets/images/life/blow_the_candle_holder_1_large.jpeg
+    image_path: assets/images/life/blow_the_candle_holder_1_thumb.jpeg
     alt: "blow"
-    title:
-  - url: /assets/images/blow_the_candle_holder_1_sm.jpeg
-    image_path: assets/images/blow_the_candle_holder_1_sm.jpeg
+    title: "blow"
+  - url: /assets/images/life/blow_the_candle_holder_2_large.jpeg
+    image_path: assets/images/life/blow_the_candle_holder_2_thumb.jpeg
     alt: "blow"
-    title:
-  - url: /assets/images/birdie_finger_sm.jpeg
-    image_path: assets/images/birdie_finger_sm.jpeg
+    title: "blow"
+  - url: /assets/images/life/blow_the_candle_holder_3_large.jpeg
+    image_path: assets/images/life/blow_the_candle_holder_3_thumb.jpeg
     alt: "blow"
-    title:
-  - url: /assets/images/blow_the_candle_holder_1_sm.jpeg
-    image_path: assets/images/blow_the_candle_holder_1_sm.jpeg
+    title: "blow"
+  - url: /assets/images/life/blow_the_candle_holder_4_large.jpeg
+    image_path: assets/images/life/blow_the_candle_holder_4_thumb.jpeg
     alt: "blow"
-    title:
+    title: "blow"
 gallery5:
-  - url: /assets/images/content_sm.jpeg
-    image_path: assets/images/content_sm.jpeg
+  - url: /assets/images/life/starface_lifecast_sealed_large.jpeg
+    image_path: assets/images/life/starface_lifecast_sealed_thumb.jpeg
     alt: "FriendFace"
-    title:
-  - url: /assets/images/dead_hand_1_sm.jpeg
-    image_path: assets/images/dead_hand_1_sm.jpeg
+    title: "FriendFace"
+  - url: /assets/images/life/friend_face_1_large.jpeg
+    image_path: assets/images/life/friend_face_1_thumb.jpeg
     alt: "FriendFace"
-    title:
-  - url: /assets/images/dead_hand_2_sm.jpeg
-    image_path: assets/images/dead_hand_2_sm.jpeg
+    title: "FriendFace"
+  - url: /assets/images/life/friend_face_2_large.jpeg
+    image_path: assets/images/life/friend_face_2_thumb.jpeg
     alt: "FriendFace"
-    title:
-  - url: /assets/images/dead_hand_3_sm.jpeg
-    image_path: assets/images/dead_hand_3_sm.jpeg
-    alt: "FriendFace"
-    title:
+    title: "FriendFace"
 gallery6:
-  - url: /assets/images/kiss_fresh_sm.jpeg
-    image_path: assets/images/kiss_fresh_sm.jpeg
+  - url: /assets/images/life/nearly_smiling_clean_large.jpeg
+    image_path: assets/images/life/nearly_smiling_clean_thumb.jpeg
     alt: "smile"
-    title:
-  - url: /assets/images/nearly_smiling_1_sm.jpeg
-    image_path: assets/images/nearly_smiling_1_sm.jpeg
+    title: "smile"
+  - url: /assets/images/life/nearly_smiling_fresh_large.jpeg
+    image_path: assets/images/life/nearly_smiling_fresh_thumb.jpeg
     alt: "smile"
-    title:
-  - url: /assets/images/nearly_smiling_3_sm.jpeg
-    image_path: assets/images/nearly_smiling_3_sm.jpeg
+    title: "smile"
+  - url: /assets/images/life/nearly_smiling_mold_large.jpeg
+    image_path: assets/images/life/nearly_smiling_mold_thumb.jpeg
     alt: "smile"
-    title:
+    title: "smile"
 gallery7:
-  - url: /assets/images/nearly_smiling_4_sm.jpeg
-    image_path: assets/images/nearly_smiling_4_sm.jpeg
+  - url: /assets/images/life/kiss_fresh_large.jpeg
+    image_path: assets/images/life/kiss_fresh_thumb.jpeg
     alt: "kiss"
-    title:
-  - url: /assets/images/nearly_smiling_4_sm.jpeg
-    image_path: assets/images/nearly_smiling_4_sm.jpeg
+    title: "kiss"
+  - url: /assets/images/life/birdie_finger_large.jpeg
+    image_path: assets/images/life/birdie_finger_thumb.jpeg
     alt: "birdie"
-    title:
-  - url: /assets/images/nearly_smiling_4_sm.jpeg
-    image_path: assets/images/nearly_smiling_4_sm.jpeg
-    alt: "mouth"
-    title:
+    title: "birdie"
+  - url: /assets/images/life/content_large.jpeg
+    image_path: assets/images/life/content_thumb.jpeg
+    alt: "content"
+    title: "content"
 ---
 ## FaceBox
 
