@@ -44,7 +44,6 @@ gallery3:
     image_path: assets/images/casts/kiss_copper_patina_unfinished_small.jpeg
     alt: "kiss"
     title: "Cold cast copper with polyurethane fill, patinated with cupric sulfate (ArtNouveau “Tiffany Green” liquid patina), unsealed, LED light"
-wax (Sculpt Nouveau clear), natural light"
   - url: /assets/images/casts/kiss_copper_patina_waxed_large.jpeg
     image_path: assets/images/casts/kiss_copper_patina_waxed_small.jpeg
     alt: "kiss"
