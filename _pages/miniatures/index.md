@@ -6,16 +6,16 @@ permalink: /miniatures/
 #  image: /assets/images/wetland/mini_swamp_1_small.jpeg
 #  teaser: assets/images/wetland/mini_swamp_1_small.jpeg
 gallery1:
-  - url: /assets/images/lovers_graves_1_large.jpeg
-    image_path: assets/images/lovers_graves_1_small.jpeg
+  - url: /assets/images/graves/lovers_graves_1_large.jpeg
+    image_path: assets/images/graves/lovers_graves_1_small.jpeg
     alt: "Love and Graves 1"
     title: "Polymer clay, copper wire, and sheet moss set inside a section of a thrifted birdhouse"
-  - url: /assets/images/lovers_graves_2_large.jpeg
-    image_path: assets/images/lovers_graves_2_small.jpeg
+  - url: /assets/images/graves/lovers_graves_2_large.jpeg
+    image_path: assets/images/graves/lovers_graves_2_small.jpeg
     alt: "Love and Graves 2"
     title: "Headstones made of Sculpey Premo in Gray Granite, acrylic paint, and dried lichen"
-  - url: /assets/images/lovers_graves_3_large.jpeg
-    image_path: assets/images/lovers_graves_3_small.jpeg
+  - url: /assets/images/graves/lovers_graves_3_large.jpeg
+    image_path: assets/images/graves/lovers_graves_3_small.jpeg
     alt: "Love and Graves 3"
     title: "Copper wire briar and rose bushes, Sculpey polymer clay roses"
 gallery2:    
@@ -60,7 +60,7 @@ gallery3:
 
 Winter Wonder Wetland
 
-{% include gallery id="2" layout="third" caption="Mini wetland made from trash, fiber optic filament, and whimsy" %}
+{% include gallery id="2" %}
 
 Love and Graves
 
