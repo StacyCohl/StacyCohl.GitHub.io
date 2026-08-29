@@ -58,14 +58,14 @@ gallery3:
     title: "1/12th scale bookcase with new owner (5’9” adult hands for scale)"                     
 ---
 
-Winter Wonder Wetland
+#Winter Wonder Wetland
 
 {% include gallery id="gallery2" %}
 
-Love and Graves
+#Love and Graves
 
-{% include gallery id="1" layout="third" caption="Polymer clay, sheet moss, copper wire, a 17th century folk song" %}
+{% include gallery id="gallery1" layout="third" caption="Polymer clay, sheet moss, copper wire, a 17th century folk song" %}
 
-Tiny Taper (and the Forgotten Bookcase)
+#Tiny Taper (and the Forgotten Bookcase)
 
-{% include gallery id="3" layout="third" caption="1/12th scale taper candle and holder" %}
+{% include gallery id="gallery3" layout="third" caption="1/12th scale taper candle and holder" %}
