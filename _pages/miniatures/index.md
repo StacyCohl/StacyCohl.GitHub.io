@@ -58,14 +58,15 @@ gallery3:
     title: "1/12th scale bookcase with new owner (5’9” adult hands for scale)"                     
 ---
 
-# Winter Wonder Wetland
+## Winter Wonder Wetland
+> explanation as a block quote?
 
 {% include gallery id="gallery2" caption="Mini wetland made from trash, fiber optic filament, and whimsy" %}
 
-# Love and Graves
+## Love and Graves
 
 {% include gallery id="gallery1" caption="Polymer clay, sheet moss, copper wire, a 17th century folk song" %}
 
-# Tiny Taper (and the Forgotten Bookcase)
+## Tiny Taper (and the Forgotten Bookcase)
 
 {% include gallery id="gallery3" caption="1/12th scale taper candle and holder" %}
