@@ -6,13 +6,9 @@ header:
     id: 1222506221
     provider: vimeo
 ---
-# Hi, I'm Stacy
+## I'm Stacy and I make things
 
-I make things using people! 
-
-But not like that.
-
-Like this!
+Thank you for checking out my portfolio. It may be a quirky skill set but naturally follows from me thinking "I mean, I could probably do that" whenever I find objects, materials, and processes that spark me.
 
 {% include figure popup=true image_path="/assets/images/about/me_molding_katie_small.jpeg" alt="this is a placeholder image" caption="This is a figure caption." %}
 
