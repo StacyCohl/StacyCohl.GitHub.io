@@ -57,6 +57,9 @@ gallery3:
     alt: "taper"
     title: "1/12th scale bookcase with new owner (5’9” adult hands for scale)"                     
 ---
+
+{% include video id="1220682063" provider="vimeo" %}
+
 > page description here
 
 ## Winter Wonder Wetland
