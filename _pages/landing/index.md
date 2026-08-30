@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/landing/banner_wetland_lg.jpeg
   actions:
     - label: "More work"
-      url: "https://github.com/StacyCohl/StacyCohl.GitHub.io/miniatures"
+      url: /pages/miniatures/
   caption: "Whimsical wetland diorama"
 excerpt: "I have many capabilities and things"
 intro: 
