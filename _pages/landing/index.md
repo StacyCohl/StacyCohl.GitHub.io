@@ -1,14 +1,12 @@
 ---
-title: "Willkommen"
+title: "Welcome to my world(s)"
 layout: splash
 permalink: /
 date: 2016-03-23T11:48:41-04:00
 header:
-  overlay_image: /assets/images/landing/banner_wetland_lg.jpeg
-  actions:
-    - label: "More work"
-      url: /miniatures/
-  caption: "Whimsical wetland diorama"
+  video:
+    id: 1220682063
+    provider: vimeo
 excerpt: "I have many capabilities and things"
 intro: 
   - excerpt: 'Types of things I do'
