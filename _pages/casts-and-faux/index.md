@@ -74,9 +74,11 @@ gallery4:
     alt: "OG"
     title: "Paraffin candle dyed jet black"
 ---
-> Theme and variation.
+> It's theme... and variation.
 
 ## Little Devil
+
+{% include video id="1220682753" provider="vimeo" %}
 
 {% include gallery id="gallery2" layout="half" %}
 
