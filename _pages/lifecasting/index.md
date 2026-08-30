@@ -97,21 +97,19 @@ gallery7:
     alt: "content"
     title: "content"
 ---
+## Captured Marble
+
+{% include video id="1220682009" provider="vimeo" %}
+
+{% include gallery id="gallery2" layout="half" %}
+
 ## FaceBox
 
 {% include gallery id="gallery1" layout="half" %}
 
-## Captured Marble
-
-{% include gallery id="gallery2" layout="half" %}
-
 ## Dead Hand
 
 {% include gallery id="gallery3" layout="half" %}
-
-## Blow The Candle Holder
-
-{% include gallery id="gallery4" layout="half" %}
 
 ## FriendFace
 
