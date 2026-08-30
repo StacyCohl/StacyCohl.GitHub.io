@@ -60,11 +60,13 @@ gallery3:
 
 {% include video id="1220682063" provider="vimeo" %}
 
-> page description here
+page description here
 
 ## Winter Wonder Wetland
 
-{% include gallery id="gallery2" caption="Mini wetland made from trash, fiber optic filament, and whimsy" %}
+{% include gallery id="gallery2" caption="Mini recreation of Murfree Spring wetland (for Discovery Center). Made from recycled paper clay, fiber optic filament, and whimsy" %}
+
+> Behind The Scenes page coming soon
 
 ## Love and Graves
 
@@ -72,4 +74,4 @@ gallery3:
 
 ## Tiny Taper (and the Forgotten Bookcase)
 
-{% include gallery id="gallery3" caption="1/12th scale taper candle and holder" %}
+{% include gallery id="gallery3" caption="1/12th scale taper candle and holder in cigar box bookcase" %}
