@@ -2,9 +2,6 @@
 title: "Lifecasting"
 excerpt: "This is a test. Please remain calm"
 permalink: /lifecasting/
-#header:
-#  image: /assets/images/life/kiss_fresh_large.jpeg
-#  teaser: assets/images/life/kiss_fresh_thumb.jpeg
 gallery1:
   - url: /assets/images/life/face_in_a_box_2_large.jpeg
     image_path: assets/images/life/face_in_a_box_2_thumb.jpeg
