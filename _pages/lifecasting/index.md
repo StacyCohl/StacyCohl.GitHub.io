@@ -102,7 +102,7 @@ gallery7:
 
 ## Captured Marble
 
-{% include video id="1220682009" provider="vimeo" %}
+<iframe src="https://player.vimeo.com/video/1220682009? autoplay=1&loop=1&autopause=1&mute=1” width="640" height="360" frameborder="0" allow="autoplay; fullscreen= allowfullscreen></iframe>
 
 {% include gallery id="gallery2" layout="half" caption="Hydrocal life cast of hand from alginate mold; spinning marble molded in place, 2018 %}
 
