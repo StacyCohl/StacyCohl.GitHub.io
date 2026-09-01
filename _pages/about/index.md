@@ -1,10 +1,6 @@
 ---
 permalink: /about/
 title: "About"
-header:
-  video:
-    id: 1222545595
-    provider: vimeo
 ---
 ## I'm Stacy and I make things
 
