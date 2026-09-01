@@ -6,6 +6,5 @@ permalink: /bts/
 
 ## Winter Wonder Wetland
 
-{% include video id="1220674576" provider="vimeo" %}
 
 Page in progress
