@@ -8,12 +8,12 @@ permalink: /lifecasting/
 gallery1:
   - url: /assets/images/life/face_in_a_box_2_large.jpeg
     image_path: assets/images/life/face_in_a_box_2_thumb.jpeg
-    alt: "FaceBox"
-    title: "FaceBox"
+    alt: "glossy white plaster cast of young man's face capturing forehead, temples, and upper lip, set against a matte black background"
+    title: "Hydrocal face cast detail"
   - url: /assets/images/life/face_in_a_box_1_large.jpeg
     image_path: assets/images/life/face_in_a_box_1_thumb.jpeg
-    alt: "FaceBox"
-    title: "FaceBox"
+    alt: "glossy white plaster cast of young man's face capturing forehead, temples, and upper lip, set against a matte black background inside a wooden box"
+    title: "Hydrocal face cast with gloss clear coat, mounted in cigar box with matte black interior"
 gallery2:    
   - url: /assets/images/life/captured_marble_hand_1_large.jpeg
     image_path: assets/images/life/captured_marble_hand_1_thumb.jpeg
