@@ -104,10 +104,10 @@ gallery7:
 
 ### Direct body molding with alginate (Genesis V) and medical-grade plaster bandage. Casts made from gypsum plaster (Hydrocal and Ultracal)
 
+{% include video id="1220682009" provider="vimeo" %}
+
 ## Captured Marble
 Hydrocal life cast of hand from alginate mold; spinning marble molded in place, 2018
-
-{% include video id="1220682009" provider="vimeo" %}
 
 {% include gallery id="gallery2" layout="third" %}
 
