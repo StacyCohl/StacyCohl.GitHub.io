@@ -74,23 +74,27 @@ gallery4:
     alt: "OG"
     title: "Paraffin candle dyed to resemble grape soda, poured cool and swirled to produce bubble trails"
 ---
-It's theme... and variation.
-
-## Little Devil
+Darling, it’s a Theme… and Variation
 
 {% include video id="1220682753" provider="vimeo" %}
+
+## Little Devil
+Casts in various materials using PlatSil Gel-25 and plaster bandage mold of modified porcelain doll head, 2023
 
 {% include gallery id="gallery2" layout="half" %}
 
 ## Baby Brain Planter
+Pure Portland cement planters cast from silicone (PlatSil Gel-25) and plaster bandage mold of modified porcelain doll head, 2021
 
 {% include gallery id="gallery1" layout="third" %}
 
 ## Kiss You
+Paraffin and cold copper casts from silicone mold using life cast of lips (model)
 
 {% include gallery id="gallery3" layout="third" %}
 
 ## Original (OG) Doll Head Candle
+Paraffin candles made from PlatSil Gel-25 mold of unmodified porcelain doll head
 
 {% include gallery id="gallery4" layout="third" %}
 
