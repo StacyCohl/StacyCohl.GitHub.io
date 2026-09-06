@@ -80,7 +80,7 @@ It's theme... and variation.
 
 {% include video id="1220682753" provider="vimeo" %}
 
-{% include gallery id="gallery2" layout="third" %}
+{% include gallery id="gallery2" layout="half" %}
 
 ## Baby Brain Planter
 
