@@ -58,20 +58,23 @@ gallery3:
     title: "1/12th scale bookcase with new owner (5’9” adult hands for scale)"                     
 ---
 
+Scaled-down creations and recreations. A delicate ecosystem of realism and whimsy so viewers can think twice about the mundane 
+
 {% include video id="1220682063" provider="vimeo" %}
 
-page description here
-
 ## Winter Wonder Wetland
+Mini recreation of Murfree Spring wetland (for Discovery Center). Made from recycled paper clay, fiber optic filament, and whimsy
 
-{% include gallery id="gallery2" caption="Mini recreation of Murfree Spring wetland (for Discovery Center). Made from recycled paper clay, fiber optic filament, and whimsy" %}
+{% include gallery id="gallery2" %}
 
 > Behind The Scenes page coming soon
 
 ## Love and Graves
+Grave scene of the folk song/poem called “Barbara Allen” (among other names) with stylized copper flora. Unlike the song, I buried the couple side by side.
 
-{% include gallery id="gallery1" caption="Polymer clay, sheet moss, copper wire, a 17th century folk song" %}
+{% include gallery id="gallery1" %}
 
 ## Tiny Taper (and the Forgotten Bookcase)
+1/12th scale taper candle and holder, made to populate 1/12th scale cigar-box bookcase
 
-{% include gallery id="gallery3" caption="1/12th scale taper candle and holder in cigar box bookcase" %}
+{% include gallery id="gallery3"%}
