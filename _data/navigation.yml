@@ -1,7 +1,7 @@
 main:
   - title: "Portfolio"
-    url: /making/
-  - title: "Process Stories"
-    url: /bts/
+    url: /portfolio/
+  - title: "Process"
+    url: /process/
   - title: "About"
     url: /about/
