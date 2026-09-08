@@ -1,12 +1,9 @@
 ---
-title: "I make things"
+title: "Portfolio"
 excerpt: "I make many things"
-permalink: /making/
+permalink: /portfolio/
 toc: true
 toc_sticky: true
-#header:
-#  image: /assets/images/me_molding_katie_sm.jpg
-#  teaser: assets/images/me_molding_katie_sm.jpg
 gallery1:
   - url: /assets/images/life/face_in_a_box_1_large.jpeg
     image_path: assets/images/life/face_in_a_box_1_small.jpeg
