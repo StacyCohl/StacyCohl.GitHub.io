@@ -2,9 +2,6 @@
 title: "Process Stories"
 excerpt: "How the whimsy happens"
 permalink: /bts/
-#header:
-#  image: /assets/images/wetland/mini_swamp_1_small.jpeg
-#  teaser: assets/images/wetland/mini_swamp_1_small.jpeg
 gallery1:    
   - url: /assets/images/wetland/mini_swamp_1_large.jpeg
     image_path: assets/images/wetland/mini_swamp_1_small.jpeg
@@ -30,7 +27,8 @@ gallery1:
     image_path: assets/images/wetland/mini_swamp_6_small.jpeg
     alt: "swamp"
     title: "Water’s edge on the left of the scene, showing high flood rings and stunted tree growth"
-    
     ---
+
+    ## Mini wetland recreation
     
     {% include gallery id="gallery1" layout="half" %}
