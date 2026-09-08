@@ -5,9 +5,9 @@ permalink: /
 date: 2016-03-23T11:48:41-04:00
 header:
   video:
-    id: 1220682063
+    id: 1225053959
     provider: vimeo
-excerpt: "I have many capabilities and things"
+excerpt: "Fabricator and fantasist"
 intro: 
   - excerpt: 'Types of things I do'
 feature_row:
