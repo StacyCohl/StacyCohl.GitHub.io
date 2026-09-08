@@ -4,7 +4,6 @@ excerpt: "I make many things"
 permalink: /making/
 toc: true
 toc_sticky: true
-classes: wide
 #header:
 #  image: /assets/images/me_molding_katie_sm.jpg
 #  teaser: assets/images/me_molding_katie_sm.jpg
