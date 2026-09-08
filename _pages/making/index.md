@@ -4,6 +4,7 @@ excerpt: "I make many things"
 permalink: /making/
 toc: true
 toc_sticky: true
+classes: wide
 #header:
 #  image: /assets/images/me_molding_katie_sm.jpg
 #  teaser: assets/images/me_molding_katie_sm.jpg
@@ -104,7 +105,8 @@ gallery7:
     title: "Cleaned Hydrocal cast of my closed mouth, 2019"
 ---
 
-### Direct body molding with alginate (Genesis V) and medical-grade plaster bandage. Casts made from gypsum plaster (Hydrocal and Ultracal)
+# Lifecasting
+Direct body molding with alginate (Genesis V) and medical-grade plaster bandage. Casts made from gypsum plaster (Hydrocal and Ultracal)
 
 {% include video id="1220682009" provider="vimeo" %}
 
@@ -137,3 +139,23 @@ Hydrocal life cast using alginate mold with plaster bandage shell, test of inclu
 Hydrocal life casts from alginate molds
 
 {% include gallery id="gallery7" layout="third" %}
+
+# Minis & Scenic
+
+## Winter Wonder Wetland 
+
+gallery
+
+## Love and Graves
+
+gallery
+
+## Tiny Taper
+
+gallery
+
+# Casts & Faux
+
+## piece 1
+
+## piece 2
