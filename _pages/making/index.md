@@ -1,7 +1,7 @@
 ---
-title: "Lifecasting"
-excerpt: "Alginate body molding and plaster casts"
-permalink: /lifecasting/
+title: "I make things"
+excerpt: "I make many things"
+permalink: /making/
 toc: true
 toc_sticky: true
 #header:
