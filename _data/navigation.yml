@@ -1,11 +1,7 @@
 main:
-  - title: "Lifecasting"
-    url: /lifecasting/
-  - title: "Minis & Scenic"
-    url: /miniatures/
-  - title: "Casts & Faux"
-    url: /casts-and-faux/  
-  - title: "Making"
+  - title: "Portfolio"
     url: /making/
+  - title: "Process Stories"
+    url: /bts/
   - title: "About"
     url: /about/
