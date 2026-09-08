@@ -4,6 +4,8 @@ main:
   - title: "Minis & Scenic"
     url: /miniatures/
   - title: "Casts & Faux"
-    url: /casts-and-faux/    
+    url: /casts-and-faux/  
+  - title: "Making"
+    url: /making/
   - title: "About"
     url: /about/
