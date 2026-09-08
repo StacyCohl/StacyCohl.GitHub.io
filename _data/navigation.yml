@@ -9,3 +9,15 @@ main:
     url: /making/
   - title: "About"
     url: /about/
+
+side:
+  - title: Things by type
+    children:
+      - title: "Lifecasting"
+        url: /side/lifecasting/
+      - title: "miniatures"
+        url: /side/miniatures/
+      - title: "casts & faux"
+        url: /side/casts-and-faux/
+      - title: "about"
+        url: /side/about/
