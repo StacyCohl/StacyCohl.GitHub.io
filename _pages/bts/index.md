@@ -1,5 +1,5 @@
 ---
-title: "Behind the Scenes"
+title: "Process Stories"
 excerpt: "How the whimsy happens"
 permalink: /bts/
 #header:
@@ -30,5 +30,7 @@ gallery1:
     image_path: assets/images/wetland/mini_swamp_6_small.jpeg
     alt: "swamp"
     title: "Water’s edge on the left of the scene, showing high flood rings and stunted tree growth"
+    
     ---
+    
     {% include gallery id="gallery1" layout="half" %}
