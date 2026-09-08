@@ -1,7 +1,7 @@
 ---
-title: "Process Stories"
+title: "Process"
 excerpt: "How the whimsy happens"
-permalink: /bts/
+permalink: /process/
 gallery1:    
   - url: /assets/images/wetland/mini_swamp_1_large.jpeg
     image_path: assets/images/wetland/mini_swamp_1_small.jpeg
