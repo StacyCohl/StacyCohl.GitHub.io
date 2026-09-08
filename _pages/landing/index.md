@@ -16,7 +16,7 @@ feature_row:
     alt: "placeholder image 1"
     title: "Lifecasting"
     excerpt: "All models were alive at the time of molding"
-    url: "https://stacycohl.com/making/#lifecasting"
+    url: "https://stacycohl.com/portfolio/#lifecasting"
     btn_label: "See pieces"
     btn_class: "btn--inverse"
   - image_path: /assets/images/landing/mini_graves_med.jpeg
@@ -24,7 +24,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "Minis & Scenic"
     excerpt: "Smaller versions of life-sized stuff"
-    url: "https://stacycohl.com/making/#minis--scenic"
+    url: "https://stacycohl.com/portfolio/#minis--scenic"
     btn_label: "See pieces"
     btn_class: "btn--inverse"
   - image_path: /assets/images/landing/casts_planter_med.jpeg
@@ -32,7 +32,7 @@ feature_row:
     alt: "cement cast from mold of porcelain doll head"
     title: "Casts & Faux"
     excerpt: "Molds/casts & faux finishes"
-    url: "https://stacycohl.com/making/#casts--faux"
+    url: "https://stacycohl.com/portfolio/#casts--faux"
     btn_label: "See pieces"
     btn_class: "btn--inverse"
 ---
