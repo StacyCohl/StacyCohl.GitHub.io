@@ -220,13 +220,12 @@ gallery14:
     title: "Paraffin candle dyed to resemble grape soda, poured cool and swirled to produce bubble trails"         
 ---
 
-# Lifecasting
+## Lifecasting
 Direct body molding with alginate (Genesis V) and medical-grade plaster bandage. Casts made from gypsum plaster (Hydrocal and Ultracal)
 
-{% include video id="1220682009" provider="vimeo" %}
-
 > **Captured Marble-**
-_Hydrocal life cast of hand from alginate mold; spinning marble molded in place, 2018_
+>
+>> _Hydrocal life cast of hand from alginate mold; spinning marble molded in place, 2018_
 
 {% include gallery id="gallery2" layout="third" %}
 
@@ -255,16 +254,13 @@ _Hydrocal life casts from alginate molds_
 
 {% include gallery id="gallery7" layout="third" %}
 
-# Minis & Scenic
+## Minis & Scenic
 _Scaled-down creations and recreations. A delicate ecosystem of realism and whimsy so viewers can think twice about the mundane_
 
 **Winter Wonder Wetland-** 
 _Mini recreation of Murfree Spring wetland (for Discovery Center). Made from recycled paper clay, fiber optic filament, and whimsy_
 
 {% include gallery id="gallery9" layout="third" %}
-{% include video id="1220682063" provider="vimeo" %}
-
-Behind The Scenes page coming soon
 
 **Love and Graves-**
 _Grave scene of the folk song/poem called “Barbara Allen” (among other names) with stylized copper flora. Unlike the song, I buried the couple side by side_
@@ -276,11 +272,9 @@ _1/12th scale taper candle and holder, made to populate 1/12th scale cigar-box b
 
 {% include gallery id="gallery10" layout="third" %}
 
-# Casts & Faux
+## Casts & Faux
 
 _Darling, it’s a Theme… and Variation_
-
-{% include video id="1220682753" provider="vimeo" %}
 
 **Little Devil-**
 _Casts in various materials using PlatSil Gel-25 and plaster bandage mold of modified porcelain doll head, 2023_
@@ -301,3 +295,11 @@ _Paraffin and cold copper casts from silicone mold using life cast of lips, 2022
 _Paraffin candles made from PlatSil Gel-25 mold of unmodified porcelain doll head, 2019_
 
 {% include gallery id="gallery14" layout="third" %}
+
+## Videos
+
+{% include video id="1220682009" provider="vimeo" %}
+
+{% include video id="1220682753" provider="vimeo" %}
+
+{% include video id="1220682063" provider="vimeo" %}
