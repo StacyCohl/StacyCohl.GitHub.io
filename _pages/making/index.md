@@ -102,6 +102,57 @@ gallery7:
     image_path: assets/images/life/content_thumb.jpeg
     alt: "close up of my slightly smiling, closed mouth while I hold a white plaster cast of my mouth in the same pose"
     title: "Cleaned Hydrocal cast of my closed mouth, 2019"
+gallery8:
+  - url: /assets/images/graves/lovers_graves_1_large.jpeg
+    image_path: assets/images/graves/lovers_graves_1_small.jpeg
+    alt: "Love and Graves 1"
+    title: "Polymer clay, copper wire, and sheet moss set inside a section of a thrifted birdhouse"
+  - url: /assets/images/graves/lovers_graves_2_large.jpeg
+    image_path: assets/images/graves/lovers_graves_2_small.jpeg
+    alt: "Love and Graves 2"
+    title: "Headstones made of Sculpey Premo in Gray Granite, acrylic paint, and dried lichen"
+  - url: /assets/images/graves/lovers_graves_3_large.jpeg
+    image_path: assets/images/graves/lovers_graves_3_small.jpeg
+    alt: "Love and Graves 3"
+    title: "Copper wire briar and rose bushes, Sculpey polymer clay roses"
+gallery9:    
+  - url: /assets/images/wetland/mini_swamp_1_large.jpeg
+    image_path: assets/images/wetland/mini_swamp_1_small.jpeg
+    alt: "begin swamp"
+    title: "high shot slight angle"
+  - url: /assets/images/wetland/mini_swamp_2_large.jpeg
+    image_path: assets/images/wetland/mini_swamp_2_small.jpeg
+    alt: "swamp"
+    title: "less high shot front"
+  - url: /assets/images/wetland/mini_swamp_5_large.jpeg
+    image_path: assets/images/wetland/mini_swamp_5_small.jpeg
+    alt: "swamp"
+    title: "Close-up of recent beaver tooth marks on copse of young trees"
+  - url: /assets/images/wetland/mini_swamp_3_large.jpeg
+    image_path: assets/images/wetland/mini_swamp_3_small.jpeg
+    alt: "swamp"
+    title: "Water’s edge on the right of the scene, showing leaf mat succession, lichen and moss, Bald Cypress with knees, flood rings, beaver activity, and invasive vines"
+  - url: /assets/images/wetland/mini_swamp_vine_large.jpeg
+    image_path: assets/images/wetland/mini_swamp_vine_small.jpeg
+    alt: "swamp"
+    title: "Tree showing callus tissue formation after beaver damage. Grasses made with chip brush bristles, twine for the vine(s)"
+  - url: /assets/images/wetland/mini_swamp_6_large.jpeg
+    image_path: assets/images/wetland/mini_swamp_6_small.jpeg
+    alt: "swamp"
+    title: "Water’s edge on the left of the scene, showing high flood rings and stunted tree growth"
+gallery10:    
+  - url: /assets/images/taper/tiny_candle_finger_large.jpeg
+    image_path: assets/images/taper/tiny_candle_finger_small.jpeg
+    alt: "taper"
+    title: "Painted toothpick candle with thread wick, polymer clay holder (small-ish hand for scale)"
+  - url: /assets/images/taper/tiny_candle_shelf_large.jpeg
+    image_path: assets/images/taper/tiny_candle_shelf_small.jpeg
+    alt: "taper"
+    title: "Bookcase made from cigar box, books with fabric covers, piece of gravel as display rock"
+  - url: /assets/images/taper/tiny_candle_man_large.jpeg
+    image_path: assets/images/taper/tiny_candle_man_small.jpeg
+    alt: "taper"
+    title: "1/12th scale bookcase with new owner (5’9” adult hands for scale)"      
 ---
 
 # Lifecasting
@@ -140,21 +191,29 @@ Hydrocal life casts from alginate molds
 {% include gallery id="gallery7" layout="third" %}
 
 # Minis & Scenic
+_Scaled-down creations and recreations. A delicate ecosystem of realism and whimsy so viewers can think twice about the mundane_
 
-## Winter Wonder Wetland 
+**Winter Wonder Wetland** 
+_Mini recreation of Murfree Spring wetland (for Discovery Center). Made from recycled paper clay, fiber optic filament, and whimsy_
 
-gallery
+{% include gallery id="gallery9" layout="third" %}
+{% include video id="1220682063" provider="vimeo" %}
 
-## Love and Graves
+Behind The Scenes page coming soon
 
-gallery
+**Love and Graves**
+_Grave scene of the folk song/poem called “Barbara Allen” (among other names) with stylized copper flora. Unlike the song, I buried the couple side by side_
 
-## Tiny Taper
+{% include gallery id="gallery8" layout="third" %}
 
-gallery
+**Tiny Taper**
+_1/12th scale taper candle and holder, made to populate 1/12th scale cigar-box bookcase_
+
+{% include gallery id="gallery10" layout="third" %}
 
 # Casts & Faux
 
-## piece 1
+ piece 1
 
-## piece 2
+ piece 2
+                  
