@@ -152,7 +152,75 @@ gallery10:
   - url: /assets/images/taper/tiny_candle_man_large.jpeg
     image_path: assets/images/taper/tiny_candle_man_small.jpeg
     alt: "taper"
-    title: "1/12th scale bookcase with new owner (5’9” adult hands for scale)"      
+    title: "1/12th scale bookcase with new owner (5’9” adult hands for scale)"
+gallery11:
+  - url: /assets/images/casts/baby_brain_planter_mold_large.jpeg
+    image_path: assets/images/casts/baby_brain_planter_mold_small.jpeg
+    alt: "Baby Brain"
+    title: "Fresh cement cast and mold loosely tied closed for drying"
+  - url: /assets/images/casts/baby_brain_planter_redtwins_large.jpeg
+    image_path: assets/images/casts/baby_brain_planter_redtwins_small.jpeg
+    alt: "Red Twins"
+    title: "Cement planters finished with Rustoleum Triple Thick gloss spray paint in “Colonial Red”"
+  - url: /assets/images/casts/baby_brain_tests_large.jpeg
+    image_path: assets/images/casts/baby_brain_tests_sm.jpeg
+    alt: "Red Twins"
+    title: "Cement viscosity tests"
+gallery12:
+  - url: /assets/images/casts/devil_baby_candle_raw_lg.jpeg
+    image_path: assets/images/casts/devil_baby_candle_raw_sm.jpeg
+    alt: "Little Devil in hand"
+    title: "Paraffin candle tinted deep smoke with original scent (in hand for scale)"
+  - url: /assets/images/casts/devil_baby_mold_pos_lg.jpeg
+    image_path: assets/images/casts/devil_baby_mold_pos_sm.jpeg
+    alt: "Little Devil mold positive"
+    title: "Secondary PlatSil Gel-25 mold with Hydrocal cast from original sculpture"
+  - url: /assets/images/casts/devil_baby_mold_neg_lg.jpeg
+    image_path: assets/images/casts/devil_baby_mold_neg_sm.jpeg
+    alt: "Little Devil mold negative"
+    title: "Negative of face in PlatSil Gel-25 mold"
+  - url: /assets/images/casts/gold_ratboy_lg.jpeg
+    image_path: assets/images/casts/gold_ratboy_sm.jpeg
+    alt: "black and gold"
+    title: "Hydrocal cast finished with Testors Gold enamel over acrylic paint"
+gallery13:
+  - url: /assets/images/casts/kiss_copper_patina_unfinished_lg.jpeg
+    image_path: assets/images/casts/kiss_copper_patina_unfinished_sm.jpeg
+    alt: "kiss"
+    title: "Cold cast copper with polyurethane fill, patinated with cupric sulfate (ArtNouveau “Tiffany Green” liquid patina), unsealed, LED light"
+  - url: /assets/images/casts/kiss_copper_patina_waxed_lg.jpeg
+    image_path: assets/images/casts/kiss_copper_patina_waxed_sm.jpeg
+    alt: "kiss"
+    title: "Cold cast copper with polyurethane fill, patinated with cupric sulfate (Sculpt Nouveau “Tiffany Green” liquid patina), finished with metal wax (Sculpt Nouveau clear), under natural light"
+  - url: /assets/images/casts/kiss_copper_patina_pair_lg.jpeg
+    image_path: assets/images/casts/kiss_copper_patina_pair_sm.jpeg
+    alt: "kiss"
+    title: "Cold cast copper with polyurethane fill, patinated with cupric sulfate (ArtNouveau “Tiffany Green” liquid patina), unsealed, LED light"
+gallery14:
+  - url: /assets/images/casts/og_head_cast_og_lg.jpeg
+    image_path: assets/images/casts/og_head_cast_og_sm.jpeg
+    alt: "OG"
+    title: "Original porcelain doll head next to cured, unmodified Hydrocal cast from the mold"
+  - url: /assets/images/casts/og_head_candle_black_lg.jpeg
+    image_path: assets/images/casts/og_head_candle_black_med.jpeg
+    alt: "OG"
+    title: "Paraffin candle dyed jet black"   
+  - url: /assets/images/casts/og_head_candle_lit_lg.jpeg
+    image_path: assets/images/casts/og_head_candle_lit_med.jpeg
+    alt: "OG"
+    title: "Lit paraffin candle after burning roughly 3 hours"
+  - url: /assets/images/casts/og_head_candle_wtrmln_lg.jpeg
+    image_path: assets/images/casts/og_head_candle_wtrmln_med.jpeg
+    alt: "OG"
+    title: "Paraffin candle dyed to resemble watermelon soda, poured cool to produce bubbles"
+  - url: /assets/images/casts/og_head_candle_cherry_lg.jpeg
+    image_path: assets/images/casts/og_head_candle_cherry_med.jpeg
+    alt: "OG"
+    title: "Paraffin candle dyed to resemble cherry soda, poured cool and swirled to produce bubble trails"
+  - url: /assets/images/casts/og_head_candle_grape_lg.jpeg
+    image_path: assets/images/casts/og_head_candle_grape_med.jpeg
+    alt: "OG"
+    title: "Paraffin candle dyed to resemble grape soda, poured cool and swirled to produce bubble trails"         
 ---
 
 # Lifecasting
@@ -160,40 +228,40 @@ Direct body molding with alginate (Genesis V) and medical-grade plaster bandage.
 
 {% include video id="1220682009" provider="vimeo" %}
 
-## Captured Marble
-Hydrocal life cast of hand from alginate mold; spinning marble molded in place, 2018
+> **Captured Marble-**
+_Hydrocal life cast of hand from alginate mold; spinning marble molded in place, 2018_
 
 {% include gallery id="gallery2" layout="third" %}
 
-## FaceBox
-Hydrocal life cast of upper face from alginate and plaster bandage mold, mounted in a cigar box, 2019
+**FaceBox-**
+_Hydrocal life cast of upper face from alginate and plaster bandage mold, mounted in a cigar box, 2019_
 
 {% include gallery id="gallery1" layout="third" %}
 
-## De-d Hand
-Hydrocal life cast of hand and wrist from alginate mold; finished with acrylics and PVC clear coat, 2018
+**De-d Hand-**
+_Hydrocal life cast of hand and wrist from alginate mold; finished with acrylics and PVC clear coat, 2018_
 
 {% include gallery id="gallery3" layout="third" %}
 
-## FriendFace
-Hydrocal life cast of lower face from alginate and plaster bandage mold, 2023
+**FriendFace-**
+_Hydrocal life cast of lower face from alginate and plaster bandage mold, 2023_
 
 {% include gallery id="gallery5" layout="third" %}
 
-## Nearly Smiling
-Hydrocal life cast using alginate mold with plaster bandage shell, test of including teeth in life cast; test of capturing subtly of facial expressions, 2019
+**Nearly Smiling-**
+_Hydrocal life cast using alginate mold with plaster bandage shell, test of including teeth in life cast; test of capturing subtly of facial expressions, 2019_
 
 {% include gallery id="gallery6" layout="third" %}
 
-## Proofs Of Life
-Hydrocal life casts from alginate molds
+**Proofs Of Life-**
+_Hydrocal life casts from alginate molds_
 
 {% include gallery id="gallery7" layout="third" %}
 
 # Minis & Scenic
 _Scaled-down creations and recreations. A delicate ecosystem of realism and whimsy so viewers can think twice about the mundane_
 
-**Winter Wonder Wetland** 
+**Winter Wonder Wetland-** 
 _Mini recreation of Murfree Spring wetland (for Discovery Center). Made from recycled paper clay, fiber optic filament, and whimsy_
 
 {% include gallery id="gallery9" layout="third" %}
@@ -201,19 +269,38 @@ _Mini recreation of Murfree Spring wetland (for Discovery Center). Made from rec
 
 Behind The Scenes page coming soon
 
-**Love and Graves**
+**Love and Graves-**
 _Grave scene of the folk song/poem called “Barbara Allen” (among other names) with stylized copper flora. Unlike the song, I buried the couple side by side_
 
 {% include gallery id="gallery8" layout="third" %}
 
-**Tiny Taper**
+**Tiny Taper-**
 _1/12th scale taper candle and holder, made to populate 1/12th scale cigar-box bookcase_
 
 {% include gallery id="gallery10" layout="third" %}
 
 # Casts & Faux
 
- piece 1
+_Darling, it’s a Theme… and Variation_
 
- piece 2
-                  
+{% include video id="1220682753" provider="vimeo" %}
+
+**Little Devil-**
+_Casts in various materials using PlatSil Gel-25 and plaster bandage mold of modified porcelain doll head, 2023_
+
+{% include gallery id="gallery12" layout="half" %}
+
+**Baby Brain Planter-**
+_Portland cement planters cast from silicone (PlatSil Gel-25) and plaster bandage mold of modified porcelain doll head, 2021_
+
+{% include gallery id="gallery11" layout="third" %}
+
+**Kiss You-**
+_Paraffin and cold copper casts from silicone mold using life cast of lips, 2022 (model)_
+
+{% include gallery id="gallery13" layout="third" %}
+
+**Original (OG) Doll Head Candle-**
+_Paraffin candles made from PlatSil Gel-25 mold of unmodified porcelain doll head, 2019_
+
+{% include gallery id="gallery14" layout="third" %}
