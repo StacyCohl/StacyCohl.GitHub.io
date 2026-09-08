@@ -220,50 +220,59 @@ gallery14:
     title: "Paraffin candle dyed to resemble grape soda, poured cool and swirled to produce bubble trails"         
 ---
 
-## Lifecasting
+# Lifecasting
+
 Direct body molding with alginate (Genesis V) and medical-grade plaster bandage. Casts made from gypsum plaster (Hydrocal and Ultracal)
 
-> **Captured Marble-**
+> **Captured Marble (2018)**
 >
->> _Hydrocal life cast of hand from alginate mold; spinning marble molded in place, 2018_
+> _Hydrocal life cast of hand from alginate mold; spinning marble molded in place_
 
 {% include gallery id="gallery2" layout="third" %}
 
-**FaceBox-**
-_Hydrocal life cast of upper face from alginate and plaster bandage mold, mounted in a cigar box, 2019_
+> **FaceBox (2019)**
+>
+> _Hydrocal life cast of upper face from alginate and plaster bandage mold, mounted in a cigar box_
 
 {% include gallery id="gallery1" layout="third" %}
 
-**De-d Hand-**
-_Hydrocal life cast of hand and wrist from alginate mold; finished with acrylics and PVC clear coat, 2018_
+> **De-d Hand (2018)**
+>
+> _Hydrocal life cast of hand and wrist from alginate mold; finished with acrylics and PVC clear coat_
 
 {% include gallery id="gallery3" layout="third" %}
 
-**FriendFace-**
-_Hydrocal life cast of lower face from alginate and plaster bandage mold, 2023_
+> **FriendFace (2023)**
+>
+> _Hydrocal life cast of lower face from alginate and plaster bandage mold_
 
 {% include gallery id="gallery5" layout="third" %}
 
-**Nearly Smiling-**
-_Hydrocal life cast using alginate mold with plaster bandage shell, test of including teeth in life cast; test of capturing subtly of facial expressions, 2019_
+> **Nearly Smiling (2019)**
+>
+> _Hydrocal life cast using alginate mold with plaster bandage shell, test of including teeth in life cast; test of capturing subtly of facial expressions_
 
 {% include gallery id="gallery6" layout="third" %}
 
-**Proofs Of Life-**
-_Hydrocal life casts from alginate molds_
+>**Proofs Of Life (2019-23)**
+>
+> _Hydrocal life casts from alginate molds_
 
 {% include gallery id="gallery7" layout="third" %}
 
-## Minis & Scenic
+# Minis & Scenic
+
 _Scaled-down creations and recreations. A delicate ecosystem of realism and whimsy so viewers can think twice about the mundane_
 
-**Winter Wonder Wetland-** 
-_Mini recreation of Murfree Spring wetland (for Discovery Center). Made from recycled paper clay, fiber optic filament, and whimsy_
+>**Winter Wonder Wetland (2020-21)**
+>
+> _Mini recreation of Murfree Spring wetland (for Discovery Center). Made from recycled paper clay, fiber optic filament, and whimsy_
 
 {% include gallery id="gallery9" layout="third" %}
 
-**Love and Graves-**
-_Grave scene of the folk song/poem called “Barbara Allen” (among other names) with stylized copper flora. Unlike the song, I buried the couple side by side_
+> **Love and Graves (2019)**
+>
+> _Grave scene of the folk song/poem called “Barbara Allen” (among other names) with stylized copper flora. Unlike the song, I buried the couple side by side_
 
 {% include gallery id="gallery8" layout="third" %}
 
@@ -272,27 +281,31 @@ _1/12th scale taper candle and holder, made to populate 1/12th scale cigar-box b
 
 {% include gallery id="gallery10" layout="third" %}
 
-## Casts & Faux
+# Casts & Faux
 
 _Darling, it’s a Theme… and Variation_
 
-**Little Devil-**
-_Casts in various materials using PlatSil Gel-25 and plaster bandage mold of modified porcelain doll head, 2023_
+> **Little Devil (2023)**
+>
+> _Casts in various materials using PlatSil Gel-25 and plaster bandage mold of modified porcelain doll head_
 
 {% include gallery id="gallery12" layout="half" %}
 
-**Baby Brain Planter-**
-_Portland cement planters cast from silicone (PlatSil Gel-25) and plaster bandage mold of modified porcelain doll head, 2021_
+> **Baby Brain Planter (2021)**
+>
+> _Portland cement planters cast from silicone (PlatSil Gel-25) and plaster bandage mold of modified porcelain doll head_
 
 {% include gallery id="gallery11" layout="third" %}
 
-**Kiss You-**
-_Paraffin and cold copper casts from silicone mold using life cast of lips, 2022 (model)_
+> **Kiss You (2022)**
+>
+> _Paraffin and cold copper casts from silicone mold using life cast of lips (model)_
 
 {% include gallery id="gallery13" layout="third" %}
 
-**Original (OG) Doll Head Candle-**
-_Paraffin candles made from PlatSil Gel-25 mold of unmodified porcelain doll head, 2019_
+> **Original (OG) Doll Head Candle (2019)**
+>
+> _Paraffin candles made from PlatSil Gel-25 mold of unmodified porcelain doll head_
 
 {% include gallery id="gallery14" layout="third" %}
 
