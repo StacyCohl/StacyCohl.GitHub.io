@@ -109,7 +109,20 @@ gallery8:
   - url: /assets/images/process/stumpreal_lg.jpeg
     image_path: assets/images/process/stumpreal_sm.jpeg
     alt: "alt"
-    title: "stump"           
+    title: "stump"
+gallery9:    
+  - url: /assets/images/process/grass1_lg.jpeg
+    image_path: assets/images/process/grass1_sm.jpeg
+    alt: "alt"
+    title: "grass"
+  - url: /assets/images/process/grass2_lg.jpeg
+    image_path: assets/images/process/grass2_sm.jpeg
+    alt: "alt"
+    title: "grass"
+  - url: /assets/images/process/grass3_lg.jpeg
+    image_path: assets/images/process/grass3_sm.jpeg
+    alt: "alt"
+    title: "grass"            
 ---
 
 ## Mini Wetland Diorama
@@ -129,3 +142,5 @@ gallery8:
 {% include gallery id="gallery7" layout="half" %}
 
 {% include gallery id="gallery8" layout="half" %}
+
+{% include gallery id="gallery9" layout="third" %}
