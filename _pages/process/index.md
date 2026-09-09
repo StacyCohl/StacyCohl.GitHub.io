@@ -97,8 +97,8 @@ gallery7:
     image_path: assets/images/process/polypore3_sm.jpeg
     alt: "alt"
     title: "polypore"
-  - url: /assets/images/process/polyporereal_lg.jpeg
-    image_path: assets/images/process/polyporereal_sm.jpeg
+  - url: /assets/images/process/polyporereal2_lg.jpeg
+    image_path: assets/images/process/polyporereal2_sm.jpeg
     alt: "alt"
     title: "polypore"
 gallery8:    
