@@ -126,21 +126,30 @@ gallery9:
 ---
 
 ## Mini Wetland Diorama
-    
-{% include gallery id="gallery1" layout="half" %}
 
-{% include gallery id="gallery2" layout="third" %}
-
-{% include gallery id="gallery3" layout="half" %}
-
-{% include gallery id="gallery4" layout="third" %}    
-
-{% include gallery id="gallery5" layout="third" %}
-
+**Paper Clay**    
 {% include gallery id="gallery6" layout="half" %}
 
-{% include gallery id="gallery7" layout="half" %}
+**Fiber Filament**  
+{% include gallery id="gallery3" layout="half" %}
 
+**Leaf Mat**  
+{% include gallery id="gallery5" layout="third" %}
+
+**Grasses**  
+{% include gallery id="gallery9" layout="third" %}
+
+**Bald Cypress Knees**  
+{% include gallery id="gallery2" layout="third" %}
+
+**Beaver Activity**  
+{% include gallery id="gallery1" layout="half" %}
+
+**Stump**  
 {% include gallery id="gallery8" layout="half" %}
 
-{% include gallery id="gallery9" layout="third" %}
+**Flood Rings**  
+{% include gallery id="gallery4" layout="third" %}    
+
+**Polypores**  
+{% include gallery id="gallery7" layout="half" %}
