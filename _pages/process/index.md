@@ -4,6 +4,8 @@ excerpt: "How the whimsy happens"
 permalink: /process/
 header:
     image: /assets/images/process/banner.jpeg
+toc: true
+toc_sticky: true
 gallery1:    
   - url: /assets/images/process/beaveresque1_lg.jpeg
     image_path: assets/images/process/beaveresque1_sm.jpeg
@@ -177,12 +179,17 @@ gallery18:
   - url: /assets/images/process/insidedark2_lg.jpeg
     image_path: assets/images/process/insidedark2_sm.jpeg
     alt: "alt"
-    title: "interior"                                 
+    title: "interior"
+ gallery19:
+  - url: /assets/images/process/mini_swamp_1_large.jpeg
+    image_path: assets/images/process/mini_swamp_1_medium.jpeg
+    alt: "alt"
+    title: "full"                         
 ---
 
-## Mini Wetland Diorama
+# Mini Wetland Diorama
 
-### Background
+## Background
 
 I created this piece as part of an artist residency at The Discovery Center at Murfree Spring in Murfreesboro, TN, which called for a permanent piece for the museum’s collection and three months of weekly art-focused program design and implementation. The Discovery Center sits next to a human-created wetland fed by a natural spring.
 
@@ -196,15 +203,19 @@ But the educators explained that it’s difficult to focus the kids’ attention
 
 {% include gallery id="gallery12" %}
 
-So for my permanent collection piece, I created a simplified, scaled-down wetland diorama showcasing specific features educators ask kids to notice on nature walks Even though I depicted the wetland in winter for a clearer view through the trees, I decided (with the educators) that the whimsy and wonder of the effect outweighed the inaccuracy. 
+So for my permanent collection piece, I created a simplified, scaled-down wetland diorama showcasing specific features educators ask kids to notice on nature walks:  
+
+{% include gallery id="gallery19" %}
+
+In order to catch viewers' attention and encourage them to look more closely in the diorama, I added the illusion of fireflies in the wetland. I decided with museum educators that the effect (and the sheer whimsy) outweighs the inaccuracy of fireflies active in winter.  
 
 {% include gallery id="gallery17" %}
 
-Displaying the diorama in the open would encourage similar scattered observations from visitors. Instead, I created a hollow tree stump as a plinth and set the diorama inside a crack in the bark. 
+Displaying the diorama on its own and in the open could promote similar scattered observation as the nature walks. Instead, I created a hollow tree stump as a plinth and set the diorama inside a crack in the bark. 
 
 {% include gallery id="gallery16" %}
 
-The viewer gets close enough to feel like they’re exploring inside the tiny wetland with fireflies all around them. Each person gets their moment of magic; maybe that makes them look for more of it outside.
+The viewer gets close enough to feel like they’re exploring inside the tiny wetland with fireflies all around them, and their attention is drawn to different parts of the landscape as the fireflies blink on and off. 
 
 {% include gallery id="gallery14" %}
 
@@ -212,51 +223,33 @@ While I was certainly proud of the result, it was the visitors’ reactions that
 
 {% include gallery id="gallery18" %}
 
-### Fabrication Process
+## Fabrication Process
 
-**Material Choice**
+### Material Choices
 
 Environmental responsibility is essential to The DC’s values, so I chose homemade paper clay from recycled packaging as my primary material. 
 
-I left the clay coarse to mimic the texture of tree bark and loam and built up the clay in thin layers to ensure proper drying. I also used fallen leaves, lichen, and stones from the Murfree Spring wetland. 
+I left the clay coarse to mimic the texture of tree bark and loam and built up the clay in thin layers to ensure proper drying
   
 {% include gallery id="gallery6" layout="half" %}
 
-**Fiber Filament** 
+I also used fallen leaves, lichen, and stones from the Murfree Spring wetland
 
-As I added clay layers, I embedded fiber optic filaments that run through a hole in the platform to a programmable party light under the diorama
-
-{% include gallery id="gallery3" layout="half" %}
-
-**Grass and Vines** 
+{% include gallery id="gallery8" layout="half" %} 
 
 Chip brush bristles for the grasses and vines made of twine
 
 {% include gallery id="gallery9" layout="third" %}
 
-**A Favorite Tree Stump** 
+As I added clay layers, I embedded fiber optic filaments that run through a hole in the platform to a programmable party light under the diorama. With the party light set to green on a random pattern, the filaments blink on and off like fireflies.
 
-{% include gallery id="gallery8" layout="half" %} 
+{% include gallery id="gallery3" layout="half" %}
 
-### Nature Walk Highlights
+I used wire mesh covered with paper clay for the life-sized polypores on the exterior tree. At the base of each one, I bent down about an inch of mesh so I could embed it into the tree bark clay. 
 
-**Leaf Mat**  
+{% include gallery id="gallery7" layout="third" %}
 
-To mimic layers of leaf mat on the forest floor, I crushed leaves to scale by hand and applied them in layers, adding thinned PVA tinted brown between layers. I left the top layer unsealed to preserve sheen variance.
-
-{% include gallery id="gallery5" layout="third" %}
-
-**Flood Rings**
-
-With acrylic paints, I added rings of algae around the trees that show the history of flooding in the wetland
-
-{% include gallery id="gallery4" layout="third" %} 
-
-**Bald Cypress Knees** 
-
-Bald Cypress tree roots grow in a unique form called "knees"
-
-{% include gallery id="gallery2" layout="third" %}
+## Nature Walk Highlights
 
 **Beaver Activity**  
 
@@ -264,9 +257,21 @@ A copse of young trees recently harvested by beavers, and a tree showing callus 
 
 {% include gallery id="gallery1" layout="half" %}  
 
-**Polypores**  
+**Leaf Mat Layers**  
 
-I used wire mesh covered with paper clay for the life-sized polypores. At the base of each one, I bent down about an inch of mesh so I could embed it into the tree bark clay. 
+To mimic layers of leaf mat on the forest floor, I crushed leaves to scale by hand and applied them in layers, adding thinned PVA tinted brown between layers. I left the top layer unsealed to preserve sheen variance.
 
-{% include gallery id="gallery7" layout="third" %}
+{% include gallery id="gallery5" layout="third" %}
+
+**Bald Cypress Knees** 
+
+Bald Cypress tree roots grow in a unique form called "knees"
+
+{% include gallery id="gallery2" layout="third" %}
+
+**Flood Rings on Trees**
+
+With acrylic paints, I added rings of algae around the trees that show the history of flooding in the wetland
+
+{% include gallery id="gallery4" layout="third" %} 
 
