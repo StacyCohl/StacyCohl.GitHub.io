@@ -10,7 +10,7 @@ header:
 excerpt: "Fabricator and fantasist"
 intro: 
   - excerpt: 'Types of things I do'
-feature_row:
+feature_row1:
   - image_path: assets/images/landing/life_dead_med.jpeg
     image_caption: "Close-up of hand cast"
     alt: "placeholder image 1"
@@ -35,8 +35,17 @@ feature_row:
     url: "https://stacycohl.com/portfolio/#casts--faux"
     btn_label: "See pieces"
     btn_class: "btn--inverse"
+feature_row2:
+  - image_path: assets/images/process/insidelight_sm.jpeg
+    image_caption: "Mini wetland diorama"
+    alt: "placeholder image 1"
+    title: "Process"
+    excerpt: "Making a tiny wetland"
+    url: "https://stacycohl.com/process/#mini-wetland-diorama"
+    btn_label: "See process"
+    btn_class: "btn--inverse"      
 ---
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
+{% include feature_row id="feature_row2" type="center" %}
