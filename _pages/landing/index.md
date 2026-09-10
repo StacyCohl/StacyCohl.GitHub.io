@@ -10,7 +10,7 @@ header:
 excerpt: "Fabricator and fantasist"
 intro: 
   - excerpt: 'Molding and casting fabricator and scenic re-creationist of 10+ years, specializing in lifecasting and scaled representational sculpture'
-feature_row1:
+feature_row:
   - image_path: assets/images/landing/life_dead_med.jpeg
     image_caption: "Close-up of hand cast"
     alt: "placeholder image 1"
