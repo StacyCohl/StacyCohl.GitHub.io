@@ -2,6 +2,7 @@
 title: "Process"
 excerpt: "How the whimsy happens"
 permalink: /process/
+layout: single
 classes: wide
 header:
     image: /assets/images/process/banner.jpeg
@@ -139,22 +140,29 @@ gallery12:
     image_path: assets/images/process/kudzu_sm.jpeg
     alt: "alt"
     title: "kudzu"
-gallery13:    
-  - url: /assets/images/process/ext2_lg.jpeg
-    image_path: assets/images/process/ext2_sm.jpeg
-    alt: "alt"
-    title: "exterior"
 gallery14:      
   - url: /assets/images/process/insidelight_lg.jpeg
     image_path: assets/images/process/insidelight_sm.jpeg
     alt: "alt"
-    title: "interior"  
+    title: "interior"
+  - url: /assets/images/process/insidedark1_lg.jpeg
+    image_path: assets/images/process/insidedark1_sm.jpeg
+    alt: "alt"
+    title: "interior"
+  - url: /assets/images/process/insidedark2_lg.jpeg
+    image_path: assets/images/process/insidedark2_sm.jpeg
+    alt: "alt"
+    title: "interior"    
 gallery15:     
   - url: /assets/images/process/grass3_lg.jpeg
     image_path: assets/images/process/grass3_sm.jpeg
     alt: "alt"
     title: "grass"
-gallery16:    
+gallery16:
+  - url: /assets/images/process/ext2_lg.jpeg
+    image_path: assets/images/process/ext2_sm.jpeg
+    alt: "alt"
+    title: "exterior"  
   - url: /assets/images/process/ext1_lg.jpeg
     image_path: assets/images/process/ext1_sm.jpeg
     alt: "alt"
@@ -172,15 +180,6 @@ gallery17:
     image_path: assets/images/process/firefly2_med.jpeg
     alt: "alt"
     title: "firefly"
-gallery18:
-  - url: /assets/images/process/insidedark1_lg.jpeg
-    image_path: assets/images/process/insidedark1_sm.jpeg
-    alt: "alt"
-    title: "interior"
-  - url: /assets/images/process/insidedark2_lg.jpeg
-    image_path: assets/images/process/insidedark2_sm.jpeg
-    alt: "alt"
-    title: "interior"
 gallery19:
   - url: /assets/images/wetland/mini_swamp_1_large.jpeg
     image_path: assets/images/wetland/mini_swamp_1_small.jpeg
@@ -224,7 +223,6 @@ The viewer gets close enough to feel like they’re exploring inside the tiny we
 
 While I was certainly proud of the result, it was the visitors’ reactions that assured me I'd gotten something right—  kids and adults alike taking turns to peer into the world in the hollow tree, eyes wide, inching closer and closer until they bump into the plexiglass
 
-{% include gallery id="gallery18" %}
 
 ## Fabrication Process
 
