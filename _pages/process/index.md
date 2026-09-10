@@ -183,7 +183,7 @@ gallery18:
     title: "interior"
 gallery19:
   - url: /assets/images/wetland/mini_swamp_1_large.jpeg
-    image_path: assets/images/wetland/mini_swamp_1_medium.jpeg
+    image_path: assets/images/wetland/mini_swamp_1_small.jpeg
     alt: "alt"
     title: "full"                         
 ---
