@@ -180,7 +180,7 @@ gallery18:
     image_path: assets/images/process/insidedark2_sm.jpeg
     alt: "alt"
     title: "interior"
- gallery19:
+gallery19:
   - url: /assets/images/process/mini_swamp_1_large.jpeg
     image_path: assets/images/process/mini_swamp_1_medium.jpeg
     alt: "alt"
