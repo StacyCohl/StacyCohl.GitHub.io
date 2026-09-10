@@ -189,6 +189,8 @@ gallery19:
 
 # Mini Wetland Diorama
 
+{% include video id="1220674576" provider="vimeo" %}
+
 ## Background
 
 I created this piece as part of an artist residency at The Discovery Center at Murfree Spring in Murfreesboro, TN, which called for a permanent piece for the museum’s collection and three months of weekly art-focused program design and implementation. The Discovery Center sits next to a human-created wetland fed by a natural spring.
