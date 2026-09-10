@@ -46,6 +46,6 @@ feature_row2:
     btn_class: "btn--inverse"      
 ---
 
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="feature_row1" type="center" %}
 
 {% include feature_row id="feature_row2" type="center" %}
