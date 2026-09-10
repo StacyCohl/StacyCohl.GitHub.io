@@ -215,6 +215,7 @@ While I was certainly proud of the result, it was the visitors’ reactions that
 ### Fabrication Process
 
 **Material Choice**
+
 Environmental responsibility is essential to The DC’s values, so I chose homemade paper clay from recycled packaging as my primary material. 
 
 I left the clay coarse to mimic the texture of tree bark and loam and built up the clay in thin layers to ensure proper drying. I also used fallen leaves, lichen, and stones from the Murfree Spring wetland. 
@@ -222,41 +223,49 @@ I left the clay coarse to mimic the texture of tree bark and loam and built up t
 {% include gallery id="gallery6" layout="half" %}
 
 **Fiber Filament** 
+
 As I added clay layers, I embedded fiber optic filaments that run through a hole in the platform to a programmable party light under the diorama
 
 {% include gallery id="gallery3" layout="half" %}
 
-**Grass and Vines**  
+**Grass and Vines** 
+
 Chip brush bristles for the grasses and vines made of twine
 
 {% include gallery id="gallery9" layout="third" %}
 
-**A Favorite Tree Stump**  
+**A Favorite Tree Stump** 
+
 {% include gallery id="gallery8" layout="half" %} 
 
 ### Nature Walk Highlights
 
 **Leaf Mat**  
+
 To mimic layers of leaf mat on the forest floor, I crushed leaves to scale by hand and applied them in layers, adding thinned PVA tinted brown between layers. I left the top layer unsealed to preserve sheen variance.
 
 {% include gallery id="gallery5" layout="third" %}
 
 **Flood Rings**
+
 With acrylic paints, I added rings of algae around the trees that show the history of flooding in the wetland
 
 {% include gallery id="gallery4" layout="third" %} 
 
-**Bald Cypress Knees**  
+**Bald Cypress Knees** 
+
 Bald Cypress tree roots grow in a unique form called "knees"
 
 {% include gallery id="gallery2" layout="third" %}
 
 **Beaver Activity**  
+
 A copse of young trees recently harvested by beavers, and a tree showing callus tissue formation after beavers stripped its bark
 
 {% include gallery id="gallery1" layout="half" %}  
 
 **Polypores**  
+
 I used wire mesh covered with paper clay for the life-sized polypores. At the base of each one, I bent down about an inch of mesh so I could embed it into the tree bark clay. 
 
 {% include gallery id="gallery7" layout="third" %}
