@@ -182,8 +182,8 @@ gallery18:
     alt: "alt"
     title: "interior"
 gallery19:
-  - url: /assets/images/process/mini_swamp_1_large.jpeg
-    image_path: assets/images/process/mini_swamp_1_medium.jpeg
+  - url: /assets/images/wetland/mini_swamp_1_large.jpeg
+    image_path: assets/images/wetland/mini_swamp_1_medium.jpeg
     alt: "alt"
     title: "full"                         
 ---
