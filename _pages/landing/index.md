@@ -23,7 +23,7 @@ feature_row:
     image_caption: "Roughly 1/12th scale"
     alt: "placeholder image 2"
     title: "Minis & Scenic"
-    excerpt: "Smaller versions of life-sized stuff"
+    excerpt: "Smaller versions of life-sized things"
     url: "https://stacycohl.com/portfolio/#minis--scenic"
     btn_label: "See pieces"
     btn_class: "btn--inverse"
@@ -48,6 +48,5 @@ feature_row2:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
 
 {% include feature_row id="feature_row2" type="center" %}
