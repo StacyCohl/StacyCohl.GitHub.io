@@ -34,9 +34,8 @@ feature_row:
     excerpt: "Molds/casts & faux finishes"
     url: "https://stacycohl.com/portfolio/#casts--faux"
     btn_label: "See pieces"
-    btn_class: "btn--inverse"
-row2:    
-feature_row:  
+    btn_class: "btn--inverse" 
+feature_row2:  
   - image_path: assets/images/process/insidelight_sm.jpeg
     image_caption: "Mini wetland diorama"
     alt: "placeholder image 1"
@@ -49,4 +48,6 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="row2" type="center" %}
+{% include feature_row %}
+
+{% include feature_row id="feature_row2" type="center" %}
