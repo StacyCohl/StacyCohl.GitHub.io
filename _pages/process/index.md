@@ -25,10 +25,6 @@ gallery1:
     alt: "alt"
     title: "beaver"
 gallery2:     
-  - url: /assets/images/process/cypress1_lg.jpeg
-    image_path: assets/images/process/cypress1_sm.jpeg
-    alt: "alt"
-    title: "cypress"
   - url: /assets/images/process/cypress2_lg.jpeg
     image_path: assets/images/process/cypress2_sm.jpeg
     alt: "alt"
@@ -267,7 +263,7 @@ To mimic layers of leaf mat on the forest floor, I crushed leaves to scale by ha
 
 Bald Cypress tree roots grow in a unique form called "knees."
 
-{% include gallery id="gallery2" layout="third" %}
+{% include gallery id="gallery2" layout="half" %}
 
 **Flood Rings on Trees**
 
