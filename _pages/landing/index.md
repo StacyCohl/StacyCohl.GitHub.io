@@ -8,7 +8,7 @@ header:
     id: 1225053959
     provider: vimeo
 excerpt: "Fabricator and fantasist"
-intro: 
+row1: 
   - excerpt: 'Molding and casting fabricator and scenic re-creationist of 10+ years, specializing in lifecasting and scaled representational sculpture'
 feature_row:
   - image_path: assets/images/landing/life_dead_med.jpeg
@@ -35,6 +35,8 @@ feature_row:
     url: "https://stacycohl.com/portfolio/#casts--faux"
     btn_label: "See pieces"
     btn_class: "btn--inverse"
+row2:    
+feature_row:  
   - image_path: assets/images/process/insidelight_sm.jpeg
     image_caption: "Mini wetland diorama"
     alt: "placeholder image 1"
@@ -45,5 +47,6 @@ feature_row:
     btn_class: "btn--inverse"      
 ---
 
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="row1" type="center" %}
 
+{% include feature_row id="row2" type="center" %}
