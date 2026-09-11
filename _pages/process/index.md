@@ -245,7 +245,7 @@ I used wire mesh covered with paper clay for the life-sized polypores on the ext
 
 {% include gallery id="gallery7" layout="third" %}
 
-## Nature Walk Highlights
+### Nature Walk Highlights
 
 **Beaver Activity**  
 
