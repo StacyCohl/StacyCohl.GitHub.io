@@ -8,7 +8,7 @@ header:
     id: 1225053959
     provider: vimeo
 excerpt: "Fabricator and fantasist"
-row1: 
+intro: 
   - excerpt: 'Molding and casting fabricator and scenic re-creationist of 10+ years, specializing in lifecasting and scaled representational sculpture'
 feature_row:
   - image_path: assets/images/landing/life_dead_med.jpeg
@@ -47,6 +47,6 @@ feature_row:
     btn_class: "btn--inverse"      
 ---
 
-{% include feature_row id="row1" type="center" %}
+{% include feature_row id="intro" type="center" %}
 
 {% include feature_row id="row2" type="center" %}
