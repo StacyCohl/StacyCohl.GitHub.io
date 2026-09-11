@@ -233,17 +233,17 @@ I left the clay coarse to mimic the texture of tree bark and loam and built up t
   
 {% include gallery id="gallery6" layout="half" %}
 
-I also used fallen leaves, lichen, and stones from the Murfree Spring wetland
-
-{% include gallery id="gallery8" layout="half" %} 
-
-Chip brush bristles for the grasses and vines made of twine
-
-{% include gallery id="gallery9" layout="third" %}
-
 As I added clay layers, I embedded fiber optic filaments that run through a hole in the platform to a programmable party light under the diorama. With the party light set to green on a random pattern, the filaments blink on and off like fireflies.
 
 {% include gallery id="gallery3" layout="half" %}
+
+I used fallen leaves, lichen, and stones from the Murfree Spring wetland.
+
+{% include gallery id="gallery8" layout="half" %} 
+
+Chip brush bristles for the grasses and vines made of twine.
+
+{% include gallery id="gallery9" layout="third" %}
 
 I used wire mesh covered with paper clay for the life-sized polypores on the exterior tree. At the base of each one, I bent down about an inch of mesh so I could embed it into the tree bark clay. 
 
@@ -253,7 +253,7 @@ I used wire mesh covered with paper clay for the life-sized polypores on the ext
 
 **Beaver Activity**  
 
-A copse of young trees recently harvested by beavers, and a tree showing callus tissue formation after beavers stripped its bark
+A copse of young trees recently harvested by beavers, and a tree showing callus tissue formation after beavers stripped its bark.
 
 {% include gallery id="gallery1" layout="half" %}  
 
@@ -265,13 +265,13 @@ To mimic layers of leaf mat on the forest floor, I crushed leaves to scale by ha
 
 **Bald Cypress Knees** 
 
-Bald Cypress tree roots grow in a unique form called "knees"
+Bald Cypress tree roots grow in a unique form called "knees."
 
 {% include gallery id="gallery2" layout="third" %}
 
 **Flood Rings on Trees**
 
-With acrylic paints, I added rings of algae around the trees that show the history of flooding in the wetland
+With acrylic paints, I added rings of algae around the trees that show the history of flooding in the wetland.
 
 {% include gallery id="gallery4" layout="third" %} 
 
