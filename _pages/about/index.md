@@ -3,14 +3,14 @@ permalink: /about/
 title: "About"
 header:
   video:
-    id: 1222506221
+    id: 1222545595
     provider: vimeo
+layout: single
+classes: wide
 ---
 ## I'm Stacy and I'm a Maker
 
-Any time I discover something seriously cool, my first thought is: 
-
-_“I bet I could make one of those.”_ 
+Any time I discover something seriously cool, my first thought is: _“I bet I could make one of those.”_ 
 
 Then I’ll actually gather all the necessary process, tooling, and materials knowledge and make it. Which inevitably leads to more project ideas based on those new capabilities… It’s a lifelong, chronic cycle and I hope it never ends.
 
