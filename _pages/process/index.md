@@ -194,9 +194,9 @@ I created this piece as part of an artist residency at The Discovery Center at M
 ![wide shot of wetland with bridge](/assets/images/process/bridge_sm.jpeg){: .align-left} 
 The Discovery Center sits next to a human-made wetland created by damming and flooding the existing natural wetland fed by Murfree Spring.
 
-Museum Educators frequently take kids on nature walks through the wetland to teach local ecology and explain the unique effects of this human interference. 
+Museum Educators frequently take kids on nature walks through the wetland to teach local ecology and explain the unique effects of this human interference. But Educators explained that it’s difficult to focus kids’ attention to highlight specific details, especially as more and more of the wetland gets obscured by invasive kudzu and duckweed. 
 
-![kudzu blanketing trees and ground, duckweed covering water's surface](/assets/images/process/kudzu_sm.jpeg){: .align-right} But the Educators explained that it’s difficult to focus the kids’ attention to highlight specific details, especially as more and more of the wetland gets obscured by invasive kudzu and duckweed. 
+![kudzu blanketing trees and ground, duckweed covering water's surface](/assets/images/process/kudzu_sm.jpeg){: .align-left} 
 
 ***
 
