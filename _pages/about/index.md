@@ -16,6 +16,10 @@ Then I’ll actually gather all the necessary process, tooling, and materials kn
 
 ![Stacy with cast of hand on shoulder](/assets/images/about/wed_sm.jpeg){: .align-left} My first life cast was my lower left arm in 2016, molded in a Quick Oats carton in my friend TJ’s kitchen. 
 
-I actually held my breath as we peeled away the pink alginate and revealed my perfectly-copied plastic left arm. I was looking at all the familiar details of my hand but I suddenly saw textures and proportions and shapes I’d never noticed. I realized the subtle power in taking something ordinary and shifting it just enough to make the viewer’s expectations glitch. 
+I actually held my breath as we peeled away the pink alginate and revealed my perfectly-copied plastic left arm. I was looking at all the familiar details of my hand but I suddenly saw textures and proportions and shapes I'd have sworn I hadn't noticed before. 
 
-In that glitch moment, they’re able to access a fresh perspective on the mundane. Whether it’s exactly recreating an object but in 1/12th scale, casting a perfect anatomical replica but in cement, or including fireflies in a depiction of a swamp in winter.
+
+
+I realized the subtle power in taking something ordinary and shifting it just enough to make the viewer’s expectations glitch. 
+
+In that glitch moment, they’re able to access a fresh perspective on the mundane. Whether it’s exactly recreating an object but in 1/12th scale, casting a perfect anatomical replica but in cement, or including fireflies in a depiction of a swamp during winter.
