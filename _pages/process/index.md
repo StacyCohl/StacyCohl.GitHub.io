@@ -208,6 +208,8 @@ I created a scaled-down diorama of the local wetland to accentuate specific high
 
 Before the nature walk, Educators use the diorama to show kids what to look for. Afterward, they use it to prompt kids' recall of what they learned.
 
+***
+
 ## Viewer Engagement
 
 To catch viewers' attention and encourage them to look more closely in the diorama, I added the illusion of fireflies in the wetland. I decided with museum educators that the effect (and the sheer whimsy) outweighs the inaccuracy of fireflies active in winter.  
@@ -224,8 +226,11 @@ The viewer gets close enough to feel like they’re exploring inside the tiny we
 
 While I was certainly proud of the result, it was the visitors’ reactions that assured me I'd gotten something right—  kids and adults alike taking turns to peer into the world in the hollow tree, eyes wide, inching closer and closer until they bump into the plexiglass. 
 
+***
 
 ## Fabrication Process
+
+***
 
 ### Material Choices
 
@@ -251,6 +256,7 @@ I used wire mesh covered with paper clay for the life-sized polypores on the ext
 
 {% include gallery id="gallery7" layout="third" %}
 
+***
 
 ### Nature Walk Highlights
 
