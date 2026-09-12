@@ -182,12 +182,13 @@ gallery19:
     title: "full"                         
 ---
 
-
-# Mini Wetland Diorama
+Mini Wetland Diorama
 
 {% include video id="1220674576" provider="vimeo" %}
 
-## Background
+# Background
+
+***
 
 I created this piece as part of an artist residency at The Discovery Center at Murfree Spring in Murfreesboro, TN, which called for a permanent piece for the museum’s collection and three months of weekly art-focused program design and implementation. 
 
@@ -228,11 +229,11 @@ While I was certainly proud of the result, it was the visitors’ reactions that
 
 ***
 
-## Fabrication Process
+# Fabrication Process
 
 ***
 
-### Material Choices
+## Material Choices
 
 Environmental responsibility is essential to The DC’s values, so I chose homemade paper clay from recycled packaging as my primary material. 
 
@@ -258,27 +259,29 @@ I used wire mesh covered with paper clay for the life-sized polypores on the ext
 
 ***
 
-### Nature Walk Highlights
+# Nature Walk Highlights
 
-**Leaf Mat Layers**  
+***
+
+## Leaf Mat Layers
 
 To mimic layers of leaf mat on the forest floor, I crushed leaves to scale by hand and applied them in layers, adding thinned PVA tinted brown between layers. I left the top layer unsealed to preserve sheen variance.
 
 {% include gallery id="gallery5" layout="third" %}
 
-**Beaver Activity**  
+## Beaver Activity 
 
 A copse of young trees recently harvested by beavers, and a tree showing callus tissue formation after beavers stripped its bark.
 
 {% include gallery id="gallery1" layout="half" %}  
 
-**Bald Cypress Knees** 
+## Bald Cypress Knees
 
 Bald Cypress tree roots grow in a unique form called "knees."
 
 {% include gallery id="gallery2" layout="half" %}
 
-**Flood Rings on Trees**
+## Flood Rings on Trees
 
 With acrylic paints, I added rings of algae around the trees that show the history of flooding in the wetland.
 
