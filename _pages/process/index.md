@@ -188,22 +188,25 @@ gallery19:
 
 ## Background
 
-I created this piece as part of an artist residency at The Discovery Center at Murfree Spring in Murfreesboro, TN, which called for a permanent piece for the museum’s collection and three months of weekly art-focused program design and implementation. The Discovery Center sits next to a human-created wetland fed by a natural spring.
+I created this piece as part of an artist residency at The Discovery Center at Murfree Spring in Murfreesboro, TN, which called for a permanent piece for the museum’s collection and three months of weekly art-focused program design and implementation. 
 
+The Discovery Center sits next to a human-made wetland created by damming and flooding the existing natural wetland fed by Murfree Spring.
 ![clear pool in the wetland with concrete structure under water](/assets/images/process/unnatural_sm.jpeg){: .align-right}
 
 
-Museum educators take groups on nature walks through the wetland to teach local ecology and explain the unique effects of human interference. 
-
+Museum Educators frequently take kids on nature walks through the wetland to teach local ecology and explain the unique effects of this human interference. 
 ![wide shot of wetland with bridge](/assets/images/process/bridge_sm.jpeg){: .align-left}
 
-But the educators explained that it’s difficult to focus the kids’ attention to highlight specific details, especially as more and more of the wetland gets obscured by invasive kudzu and duckweed. 
 
+But the Educators explained that it’s difficult to focus the kids’ attention to highlight specific details, especially as more and more of the wetland gets obscured by invasive kudzu and duckweed. 
 ![kudzu blanketing trees and ground, duckweed covering water's surface](/assets/images/process/kudzu_sm.jpeg){: .align-right}
 
-So for my permanent collection piece, I created a simplified, scaled-down wetland diorama showcasing specific features educators ask kids to notice on nature walks, like beaver activity, flood rings, leaf mat layers, and Bald Cypress knees (roots).
 
+## Project Goals
+
+I created a simplified, scaled-down diorama of the local wetland showcasing specific highlights from the nature walks, like beaver activity, flood rings, leaf mat layers, and Bald Cypress knees (roots). 
 ![full shot of diorama from above](/assets/images/process/mini_swamp_1_med.jpeg){: .align-center}
+Before the walk, Educators use the diorama to show kids what to look for. After the walk, they can use it to prompt kids' recall of what they learned.
 
 In order to catch viewers' attention and encourage them to look more closely in the diorama, I added the illusion of fireflies in the wetland. I decided with museum educators that the effect (and the sheer whimsy) outweighs the inaccuracy of fireflies active in winter.  
 
@@ -245,6 +248,7 @@ Chip brush bristles for the grasses and vines made of twine.
 I used wire mesh covered with paper clay for the life-sized polypores on the exterior tree. At the base of each one, I bent down about an inch of mesh so I could embed it into the tree bark clay. 
 
 {% include gallery id="gallery7" layout="third" %}
+
 
 ### Nature Walk Highlights
 
