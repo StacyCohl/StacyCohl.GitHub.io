@@ -186,6 +186,8 @@ Mini Wetland Diorama
 
 {% include video id="1220674576" provider="vimeo" %}
 
+***
+
 # Background
 
 ***
@@ -209,7 +211,6 @@ I created a scaled-down diorama of the local wetland to accentuate specific high
 
 Before the nature walk, Educators use the diorama to show kids what to look for. Afterward, they use it to prompt kids' recall of what they learned.
 
-***
 
 ## Viewer Engagement
 
