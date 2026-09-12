@@ -190,20 +190,20 @@ gallery19:
 
 I created this piece as part of an artist residency at The Discovery Center at Murfree Spring in Murfreesboro, TN, which called for a permanent piece for the museum’s collection and three months of weekly art-focused program design and implementation. The Discovery Center sits next to a human-created wetland fed by a natural spring.
 
-![clear pool in the wetland with concrete structure under water](/assets/images/process/unnatural_lg.jpeg){: .align-right}
+![clear pool in the wetland with concrete structure under water](/assets/images/process/unnatural_med.jpeg){: .align-right}
 
 
 Museum educators take groups on nature walks through the wetland to teach local ecology and explain the unique effects of human interference. 
 
-![wide shot of wetland with bridge](/assets/images/process/bridge_lg.jpeg){: .align-left}
+![wide shot of wetland with bridge](/assets/images/process/bridge_med.jpeg){: .align-left}
 
 But the educators explained that it’s difficult to focus the kids’ attention to highlight specific details, especially as more and more of the wetland gets obscured by invasive kudzu and duckweed. 
 
-![kudzu blanketing trees and ground, duckweed covering water's surface](/assets/images/process/kudzu_lg.jpeg){: .align-right}
+![kudzu blanketing trees and ground, duckweed covering water's surface](/assets/images/process/kudzu_med.jpeg){: .align-right}
 
 So for my permanent collection piece, I created a simplified, scaled-down wetland diorama showcasing specific features educators ask kids to notice on nature walks, like beaver activity, flood rings, leaf mat layers, and Bald Cypress knees (roots).
 
-![full shot of diorama from above](/assets/images/wetland/mini_swamp_1_large.jpeg){: .align-center}
+![full shot of diorama from above](/assets/images/wetland/mini_swamp_1_med.jpeg){: .align-center}
 
 In order to catch viewers' attention and encourage them to look more closely in the diorama, I added the illusion of fireflies in the wetland. I decided with museum educators that the effect (and the sheer whimsy) outweighs the inaccuracy of fireflies active in winter.  
 
