@@ -190,21 +190,23 @@ gallery19:
 ## Background
 
 I created this piece as part of an artist residency at The Discovery Center at Murfree Spring in Murfreesboro, TN, which called for a permanent piece for the museum’s collection and three months of weekly art-focused program design and implementation. 
+{: .text-left}
 
-The Discovery Center sits next to a human-made wetland created by damming and flooding the existing natural wetland fed by Murfree Spring. ![clear pool in the wetland with concrete structure under water](/assets/images/process/unnatural_sm.jpeg){: .align-right}
+![clear pool in the wetland with concrete structure under water](/assets/images/process/unnatural_sm.jpeg){: .align-right} The Discovery Center sits next to a human-made wetland created by damming and flooding the existing natural wetland fed by Murfree Spring.
 
-Museum Educators frequently take kids on nature walks through the wetland to teach local ecology and explain the unique effects of this human interference. ![wide shot of wetland with bridge](/assets/images/process/bridge_sm.jpeg){: .align-left}
+![wide shot of wetland with bridge](/assets/images/process/bridge_sm.jpeg){: .align-left} Museum Educators frequently take kids on nature walks through the wetland to teach local ecology and explain the unique effects of this human interference. 
 
-But the Educators explained that it’s difficult to focus the kids’ attention to highlight specific details, especially as more and more of the wetland gets obscured by invasive kudzu and duckweed. ![kudzu blanketing trees and ground, duckweed covering water's surface](/assets/images/process/kudzu_sm.jpeg){: .align-right}
-
+![kudzu blanketing trees and ground, duckweed covering water's surface](/assets/images/process/kudzu_sm.jpeg){: .align-right} But the Educators explained that it’s difficult to focus the kids’ attention to highlight specific details, especially as more and more of the wetland gets obscured by invasive kudzu and duckweed. 
 
 ## Project Goals
 
-I created a simplified, scaled-down diorama of the local wetland showcasing specific highlights from the nature walks, like beaver activity, flood rings, leaf mat layers, and Bald Cypress knees (roots). 
-![full shot of diorama from above](/assets/images/process/mini_swamp_1_med.jpeg){: .align-center}
-Before the walk, Educators use the diorama to show kids what to look for. After the walk, they can use it to prompt kids' recall of what they learned.
+![full shot of diorama from above](/assets/images/process/mini_swamp_1_med.jpeg){: .align-right} I created a scaled-down diorama of the local wetland to accentuate specific highlights from the nature walks and serve as a visual aid before and after.
 
-In order to catch viewers' attention and encourage them to look more closely in the diorama, I added the illusion of fireflies in the wetland. I decided with museum educators that the effect (and the sheer whimsy) outweighs the inaccuracy of fireflies active in winter.  
+Before the nature walk, Educators use the diorama to show kids what to look for. Afterward, they use it to prompt kids' recall of what they learned.
+
+## Viewer Engagement
+
+To catch viewers' attention and encourage them to look more closely in the diorama, I added the illusion of fireflies in the wetland. I decided with museum educators that the effect (and the sheer whimsy) outweighs the inaccuracy of fireflies active in winter.  
 
 {% include gallery id="gallery17" %}
 
@@ -216,7 +218,7 @@ The viewer gets close enough to feel like they’re exploring inside the tiny we
 
 {% include gallery id="gallery14" %}
 
-While I was certainly proud of the result, it was the visitors’ reactions that assured me I'd gotten something right—  kids and adults alike taking turns to peer into the world in the hollow tree, eyes wide, inching closer and closer until they bump into the plexiglass
+While I was certainly proud of the result, it was the visitors’ reactions that assured me I'd gotten something right—  kids and adults alike taking turns to peer into the world in the hollow tree, eyes wide, inching closer and closer until they bump into the plexiglass. 
 
 
 ## Fabrication Process
