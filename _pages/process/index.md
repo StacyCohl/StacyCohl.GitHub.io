@@ -262,25 +262,25 @@ I used wire mesh covered with paper clay for the life-sized polypores on the ext
 
 ***
 
-### Leaf Mat Layers
+***Leaf Mat Layers***
 
 To mimic layers of leaf mat on the forest floor, I crushed leaves to scale by hand and applied them in layers, adding thinned PVA tinted brown between layers. I left the top layer unsealed to preserve sheen variance.
 
 {% include gallery id="gallery5" layout="third" %}
 
-### Beaver Activity 
+***Beaver Activity*** 
 
 A copse of young trees recently harvested by beavers, and a tree showing callus tissue formation after beavers stripped its bark.
 
 {% include gallery id="gallery1" layout="half" %}  
 
-### Bald Cypress Knees
+***Bald Cypress Knees***
 
 Bald Cypress tree roots grow in a unique form called "knees."
 
 {% include gallery id="gallery2" layout="half" %}
 
-### Flood Rings on Trees
+***Flood Rings on Trees***
 
 With acrylic paints, I added rings of algae around the trees that show the history of flooding in the wetland.
 
