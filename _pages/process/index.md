@@ -194,7 +194,7 @@ Mini Wetland Diorama
 
 I created this piece as part of an artist residency at The Discovery Center at Murfree Spring in Murfreesboro, TN, which called for a permanent piece for the museum’s collection and three months of weekly art-focused program design and implementation. 
 
-Museum Educators frequently take kids on nature walks through the wetland surrounding The Discovery Center, and they've noticed difficulty focusing kids’ attention to highlight specific details, especially as more and more of the wetland gets obscured by invasive kudzu and duckweed. 
+Museum Educators frequently take groups ages 6-13 on nature walks through the wetland surrounding The Discovery Center. They expressed difficulty drawing every child's attention to specific examples or details, especially as more and more of the wetland gets obscured by invasive kudzu and duckweed. 
 
 ![kudzu blanketing trees and ground, duckweed covering water's surface](/assets/images/process/kudzu_sm.jpeg){: .align-center} 
 
@@ -204,10 +204,11 @@ Museum Educators frequently take kids on nature walks through the wetland surrou
 
 ![full shot of diorama from above](/assets/images/process/mini_swamp_1_med.jpeg){: .align-center} 
 
-I created a scaled-down diorama of the local wetland to accentuate specific highlights from the nature walks and serve as a visual aid before and after.
+I created a small-scale diorama of the local wetland that showcases clear examples of topics from the nature walk in a simplified setting.
 
-Before the nature walk, Educators use the diorama to show kids what to look for. Afterward, they use it to prompt kids' recall of what they learned.
+Before the walk Educators use the diorama to show kids what to watch for, while during and after they can point back to the diorama to prompt kids' memories. 
 
+***
 
 ## Viewer Engagement
 
@@ -257,29 +258,29 @@ I used wire mesh covered with paper clay for the life-sized polypores on the ext
 
 ***
 
-# Nature Walk Highlights
+## Nature Walk Highlights
 
 ***
 
-## Leaf Mat Layers
+### Leaf Mat Layers
 
 To mimic layers of leaf mat on the forest floor, I crushed leaves to scale by hand and applied them in layers, adding thinned PVA tinted brown between layers. I left the top layer unsealed to preserve sheen variance.
 
 {% include gallery id="gallery5" layout="third" %}
 
-## Beaver Activity 
+### Beaver Activity 
 
 A copse of young trees recently harvested by beavers, and a tree showing callus tissue formation after beavers stripped its bark.
 
 {% include gallery id="gallery1" layout="half" %}  
 
-## Bald Cypress Knees
+### Bald Cypress Knees
 
 Bald Cypress tree roots grow in a unique form called "knees."
 
 {% include gallery id="gallery2" layout="half" %}
 
-## Flood Rings on Trees
+### Flood Rings on Trees
 
 With acrylic paints, I added rings of algae around the trees that show the history of flooding in the wetland.
 
