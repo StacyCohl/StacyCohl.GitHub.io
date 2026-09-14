@@ -1,17 +1,15 @@
 ---
 title: "Fabrications, Reproductions, & Unique Creations"
-tagline: "Lifecasting, scenic, minis, and more!"
+tagline: "_Molding and casting fabricator and scenic re-creationist of 10+ years, specializing in lifecasting and scaled representational sculpture_"
 layout: splash
 permalink: /
 date: 2016-03-23T11:48:41-04:00
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.25"
   overlay_image: /assets/images/me_banner1.jpeg
   caption: "Photo credit: https://www.makebeautiful.co"
 excerpt: "Fabricator and fantasist"
 intro: 
-  - excerpt: 'Proficient in XYZ Materials/Processes?'
+  - excerpt: 'See pieces grouped by category with the buttons below, and check out the Process page for the full Mini Wetland fabrication story'
 feature_row:
   - image_path: assets/images/landing/life_dead_med.jpeg
     image_caption: "Close-up of hand cast"
@@ -48,7 +46,6 @@ feature_row2:
     btn_class: "btn--inverse"      
 ---
 
-### _Molding and casting fabricator and scenic re-creationist of 10+ years, specializing in lifecasting and scaled representational sculpture_
 
 {% include feature_row id="intro" type="center" %}
 
