@@ -286,7 +286,7 @@ _Scaled-down creations and re-creations. A delicate ecosystem of realism and whi
 
 **Winter Wonder Wetland**
 
-_Mini re-creation of Murfree Spring wetland (for Discovery Center). Made from recycled paper clay, fiber optic filament, and whimsy_
+_Mini re-creation of local wetland for The Discovery Center at Murfree Spring. Made from recycled paper clay, fiber optic filament, and whimsy_
 
 {% include gallery id="gallery9" layout="third" %}
 
