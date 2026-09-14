@@ -194,25 +194,24 @@ Mini Wetland Diorama
 
 I was the Artist in Residence for 2020/21 at The Discovery Center at Murfree Spring in Murfreesboro, TN, which entailed designing and leading three months of weekly art-focused programming, and creating a piece for the museum’s permanent collection. 
 
-Educators at "The DC" frequently take groups of 6-13 year olds on nature walks through the wetland that surrounds The Discovery Center. I noticed it was difficult to draw each child's attention to specific examples or details of wetland ecology, especially as more and more of the wetland gets obscured by invasive kudzu and duckweed. 
 
-![kudzu blanketing trees and ground, duckweed covering water's surface](/assets/images/process/kudzu_sm.jpeg){: .align-center} 
+![kudzu blanketing trees and ground, duckweed covering water's surface](/assets/images/process/kudzu_sm.jpeg){: .align-right} Educators at "The DC" frequently take groups of 6-13 year olds on nature walks through the wetland that surrounds The Discovery Center. I noticed it was difficult to draw each child's attention to specific examples or details of wetland ecology, especially as more and more of the wetland gets obscured by invasive kudzu and duckweed. 
 
 ***
 
 ## Project Goals
 
-![full shot of diorama from above](/assets/images/process/mini_swamp_1_med.jpeg){: .align-center} 
+![full shot of diorama from above](/assets/images/process/mini_swamp_1_med.jpeg){: .align-left} I created a small-scale diorama of the local wetland that showcases visually legible examples of subjects covered during the nature walk in a simplified setting.
 
-I created a small-scale diorama of the local wetland that showcases clear examples of topics from the nature walk in a simplified setting.
 
-Before the walk Educators use the diorama to show kids what to watch for, while during and after they can point back to the diorama to prompt kids' memories. 
+
+Before the walk, the educators use the diorama to show kids what to watch for, while during and after they can point back to the diorama . 
 
 ***
 
 ## Viewer Engagement
 
-To catch viewers' attention and encourage them to look more closely in the diorama, I added the illusion of fireflies in the wetland. I decided with museum educators that the effect (and the sheer whimsy) outweighs the inaccuracy of fireflies active in winter.  
+To catch viewers' attention and encourage them to look more closely within the diorama, I added the illusion of fireflies in the wetland. Fireflies are usually summer bugs, but museum educators agreed that the immediate viewer impact (and sheer whimsy) warranted inclusion in this winter scene.  
 
 {% include gallery id="gallery17" %}
 
