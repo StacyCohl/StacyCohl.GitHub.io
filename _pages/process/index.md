@@ -194,7 +194,8 @@ Mini Wetland Diorama
 
 I was the Artist in Residence for 2020/21 at The Discovery Center at Murfree Spring in Murfreesboro, TN, which entailed designing and leading three months of weekly art-focused programming, and creating a piece for the museum’s permanent collection. 
 
-Educators at "The DC" frequently take groups of 6-13 year olds on nature walks through the wetland that surrounds The Discovery Center. I noticed it was difficult to draw each child's attention to specific examples or details of wetland ecology, especially as more and more of the wetland gets obscured by invasive kudzu and duckweed. ![kudzu blanketing trees and ground, duckweed covering water's surface](/assets/images/process/kudzu_sm.jpeg){: .align-right} 
+Educators at "The DC" frequently take groups of 6-13 year olds on nature walks through the wetland that surrounds The Discovery Center. I noticed it was difficult to draw each child's attention to specific examples or details of wetland ecology, especially as more and more of the wetland gets obscured by invasive kudzu and duckweed. ![kudzu blanketing trees and ground, duckweed covering water's surface](/assets/images/process/kudzu_sm.jpeg){: .align-left} 
+
 ***
 
 ## Project Goals
@@ -213,11 +214,11 @@ To catch viewers' attention and encourage them to look more closely within the d
 
 {% include gallery id="gallery17" %}
 
-Displaying the diorama on its own and in the open could promote similar scattered observation as the nature walks. Instead, I created a hollow tree stump as a plinth and set the diorama inside a crack in the bark. 
+The viewer would have similar focus difficulty as they do on nature walks if the diorama were displayed in full view by itself. To create context and promote deep observation, I re-created a hollow tree stump as a plinth and set the diorama inside behind a crack in the bark. 
 
 {% include gallery id="gallery16" %}
 
-The viewer gets close enough to feel like they’re exploring inside the tiny wetland with fireflies all around them, and their attention is drawn to different parts of the landscape as the fireflies blink on and off. 
+The viewer feels like they’re exploring inside the tiny wetland at twilight, their attention drawn to different parts of the landscape as the fireflies blink on and off. 
 
 {% include gallery id="gallery14" %}
 
