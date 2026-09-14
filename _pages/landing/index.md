@@ -5,7 +5,7 @@ layout: splash
 permalink: /
 date: 2016-03-23T11:48:41-04:00
 header:
-  overlay_image: /assets/images/brown_lg.jpeg
+  overlay_image: /assets/images/brown_short_lg.jpeg
   caption: "Miniature wetland diorama inside life-size stump"
 excerpt: "Fabricator and fantasist"
 intro: 
