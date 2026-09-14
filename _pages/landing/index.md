@@ -5,8 +5,8 @@ layout: splash
 permalink: /
 date: 2016-03-23T11:48:41-04:00
 header:
-  overlay_image: /assets/images/brown_lg.jpeg
-  caption: "Miniature wetland diorama inside life-size stump"
+  overlay_image: /assets/images/me_banner2.jpeg
+  caption: "Making tiny wetland diorama inside life-size stump"
 excerpt: "Fabricator and fantasist"
 intro: 
   - excerpt: 'See pieces grouped by category with the buttons below, and check out the Process page for the full Mini Wetland fabrication story'
