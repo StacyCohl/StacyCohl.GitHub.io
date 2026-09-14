@@ -1,5 +1,5 @@
 ---
-title: "Fabrications, Reproductions, & Unique Creations"
+title: "Fabrications, Reproductions, Unique Creations"
 tagline: "_Molding and casting fabricator and scenic re-creationist of 10+ years, specializing in lifecasting and scaled representational sculpture_"
 layout: splash
 permalink: /
