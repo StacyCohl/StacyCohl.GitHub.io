@@ -194,7 +194,7 @@ Mini Wetland Diorama
 
 I was the Artist in Residence for 2020/21 at The Discovery Center at Murfree Spring in Murfreesboro, TN, which entailed designing and leading three months of weekly art-focused programming, and creating a piece for the museum’s permanent collection. 
 
-Educators at "The DC" frequently take groups of 6-13 year olds on nature walks through the wetland that surrounds The Discovery Center. I noticed it was difficult to draw each child's attention to specific examples or details of wetland ecology, especially as more and more of the wetland gets obscured by invasive kudzu and duckweed. ![kudzu blanketing trees and ground, duckweed covering water's surface](/assets/images/process/kudzu_sm.jpeg){: .align-left} 
+Educators at "The DC" frequently take groups of 6-13 year olds on nature walks through the wetland that surrounds The Discovery Center. ![kudzu blanketing trees and ground, duckweed covering water's surface](/assets/images/process/kudzu_sm.jpeg){: .align-left} I noticed it was difficult to draw each child's attention to specific examples or details of wetland ecology, especially as more and more of the wetland gets obscured by invasive kudzu and duckweed. 
 
 ***
 
@@ -232,21 +232,17 @@ While I was certainly proud of the result, it was the visitors’ reactions that
 
 ## Material Choices
 
-Environmental responsibility is essential to The DC’s values, so I chose homemade paper clay from recycled packaging as my primary material. 
-
-I left the clay coarse to mimic the texture of tree bark and loam and built up the clay in thin layers to ensure proper drying
+Environmental responsibility is essential to The Discovery Center’s values, so I chose homemade paper clay from recycled packaging as my primary material. 
   
 {% include gallery id="gallery6" layout="half" %}
 
-As I added clay layers, I embedded fiber optic filaments that run through a hole in the platform to a programmable party light under the diorama. With the party light set to green on a random pattern, the filaments blink on and off like fireflies.
+To make fireflies, I embedded fiber optic filaments in the clay layers, and ran them through a hole in the platform to a programmable light under the diorama. 
 
 {% include gallery id="gallery3" layout="half" %}
 
-I used fallen leaves, lichen, and stones from the Murfree Spring wetland.
+I used fallen leaves, lichen, and stones from the Murfree Spring wetland. Chip brush bristles for grasses and vines made of twine.
 
 {% include gallery id="gallery8" layout="half" %} 
-
-Chip brush bristles for the grasses and vines made of twine.
 
 {% include gallery id="gallery9" layout="third" %}
 
