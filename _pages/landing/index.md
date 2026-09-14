@@ -1,11 +1,12 @@
 ---
-title: "Welcome to my world(s)"
+title: "Fabrications, Reproductions, & Unique Creations"
+tagline: "Lifecasting, scenic, minis, and more!"
 layout: splash
 permalink: /
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.25"
   overlay_image: /assets/images/me_banner1.jpeg
   caption: "Photo credit: https://www.makebeautiful.co"
 excerpt: "Fabricator and fantasist"
