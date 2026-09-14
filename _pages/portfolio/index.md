@@ -322,7 +322,7 @@ _Casts in various materials using PlatSil Gel-25 and plaster bandage mold of mod
 
 **Baby Brain Planter**
 
-_Portland cement planters cast from silicone (PlatSil Gel-25) and plaster bandage mold of modified porcelain doll head_
+_Portland cement planters cast from PlatSil Gel-25 and plaster bandage mold of modified porcelain doll head_
 
 {% include gallery id="gallery11" layout="third" %}
 
@@ -336,9 +336,9 @@ _Paraffin and cold copper casts from silicone mold using life cast of lips (mode
 
 ***
 
-**Original (OG) Doll Head Candle**
+**Original Doll Head Candle**
 
-_Paraffin candles made from PlatSil Gel-25 mold of unmodified porcelain doll head_
+_Paraffin candles made from PlatSil Gel-25 mold of un-modified porcelain doll head_
 
 {% include gallery id="gallery14" layout="third" %}
 
