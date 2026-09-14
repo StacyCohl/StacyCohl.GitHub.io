@@ -4,9 +4,10 @@ layout: splash
 permalink: /
 date: 2016-03-23T11:48:41-04:00
 header:
-  video:
-    id: 1220682063
-    provider: vimeo
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/me_banner1.jpeg
+  caption: "Photo credit: https://www.makebeautiful.co"
 excerpt: "Fabricator and fantasist"
 intro: 
   - excerpt: 'Proficient in XYZ Materials/Processes?'
