@@ -204,7 +204,7 @@ I was the Artist in Residence for 2020/21 at The Discovery Center at Murfree Spr
 
 ***
 
-![full shot of diorama from above](/assets/images/process/mini_swamp_1_med.jpeg){: .align-left} I created a small-scale diorama of the local wetland that showcases visually legible examples of subjects covered during the nature walk in a simplified setting.
+![full shot of diorama from above](/assets/images/process/mini_swamp_1_med.jpeg){: .align-center} I created a small-scale diorama of the local wetland that showcases visually legible examples of subjects covered during the nature walk in a simplified setting.
 
 ***
 
