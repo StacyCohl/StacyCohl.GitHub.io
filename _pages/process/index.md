@@ -192,23 +192,23 @@ Mini Wetland Diorama
 
 ***
 
-I was the Artist in Residence for 2020/21 at The Discovery Center at Murfree Spring in Murfreesboro, TN, which entailed designing and leading three months of weekly art-focused programming, and creating a piece for the museum’s permanent collection. 
+![kudzu blanketing trees and ground, duckweed covering water's surface](/assets/images/fin_med.jpeg)I was the Artist in Residence for 2020/21 at The Discovery Center at Murfree Spring in Murfreesboro, TN, which entailed designing and leading three months of weekly art-focused programming, and creating a piece for the museum’s permanent collection. 
 
-![kudzu blanketing trees and ground, duckweed covering water's surface](/assets/images/process/kudzu_sm.jpeg){: .align-left} Educators at "The DC" regularly take groups of 6-13 year olds on nature walks through the wetland that surrounds The Discovery Center. I noticed it was difficult to draw each child's attention to specific examples or details of wetland ecology, especially as more and more of the wetland gets obscured by invasive kudzu and duckweed. 
+Educators at "The DC" regularly take groups of 6-13 year olds on nature walks through the wetland that surrounds The Discovery Center. I noticed it was difficult to draw each child's attention to specific examples or details of wetland ecology, ![kudzu blanketing trees and ground, duckweed covering water's surface](/assets/images/process/kudzu_sm.jpeg) especially as more and more of the wetland gets obscured by invasive kudzu and duckweed. 
 
 ***
 
 ## Project Goals
 
+***
+
 ![full shot of diorama from above](/assets/images/process/mini_swamp_1_med.jpeg){: .align-left} I created a small-scale diorama of the local wetland that showcases visually legible examples of subjects covered during the nature walk in a simplified setting.
-
-
-
-Before the walk, the educators use the diorama to show kids what to watch for, while during and after they can point back to the diorama . 
 
 ***
 
 ## Viewer Engagement
+
+***
 
 To catch viewers' attention and encourage them to look more closely within the diorama, I added the illusion of fireflies in the wetland. Fireflies are usually summer bugs, but museum educators agreed that the immediate viewer impact (and sheer whimsy) warranted inclusion in this winter scene.  
 
@@ -231,6 +231,8 @@ While I was certainly proud of the result, it was the visitors’ reactions that
 ***
 
 ## Material Choices
+
+***
 
 Environmental responsibility is essential to The Discovery Center’s values, so I chose homemade paper clay from recycled packaging as my primary material. 
   
