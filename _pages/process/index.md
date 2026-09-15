@@ -194,7 +194,7 @@ Mini Wetland Diorama
 
 I was the Artist in Residence for 2020/21 at The Discovery Center at Murfree Spring in Murfreesboro, TN, which entailed designing and leading three months of weekly art-focused programming, and creating a piece for the museum’s permanent collection. 
 
-Educators at "The DC" frequently take groups of 6-13 year olds on nature walks through the wetland that surrounds The Discovery Center. ![kudzu blanketing trees and ground, duckweed covering water's surface](/assets/images/process/kudzu_sm.jpeg){: .align-left} I noticed it was difficult to draw each child's attention to specific examples or details of wetland ecology, especially as more and more of the wetland gets obscured by invasive kudzu and duckweed. 
+![kudzu blanketing trees and ground, duckweed covering water's surface](/assets/images/process/kudzu_sm.jpeg){: .align-left} Educators at "The DC" regularly take groups of 6-13 year olds on nature walks through the wetland that surrounds The Discovery Center. I noticed it was difficult to draw each child's attention to specific examples or details of wetland ecology, especially as more and more of the wetland gets obscured by invasive kudzu and duckweed. 
 
 ***
 
