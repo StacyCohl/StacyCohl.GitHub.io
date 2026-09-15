@@ -246,7 +246,7 @@ I used fallen leaves, lichen, and stones from the Murfree Spring wetland. Chip b
 
 {% include gallery id="gallery9" layout="third" %}
 
-I used wire mesh covered with paper clay for the life-sized polypores on the exterior tree. At the base of each one, I bent down about an inch of mesh so I could embed it into the tree bark clay. 
+I made life-sized polypores for the exterior tree from wire mesh covered with paper clay. To attach them, I bent the mesh into a lip at the base and stapled them to the cardboard cladding before adding the exterior bark. 
 
 {% include gallery id="gallery7" layout="third" %}
 
@@ -256,9 +256,13 @@ I used wire mesh covered with paper clay for the life-sized polypores on the ext
 
 ***
 
-***Leaf Mat Layers***
+During nature walks at The Discovery Center, educators discuss subjects like how the forest floor forms, how beavers affect trees, the unique growth pattern of Bald Cypress roots, and how a tree's flood rings record water level history. 
 
-To mimic layers of leaf mat on the forest floor, I crushed leaves to scale by hand and applied them in layers, adding thinned PVA tinted brown between layers. I left the top layer unsealed to preserve sheen variance.
+Below are some examples of these subjects from my diorama:
+
+***Forest Floor***
+
+To mimic leaf mat decomposition on the forest floor, I crushed real leaves to scale by hand and applied them in layers. I sealed each layer with thinned PVA I tinted brown, which mimics leaves turning into loam. I left the top layer unsealed, preserving the variance of the sheen on the leaves.
 
 {% include gallery id="gallery5" layout="third" %}
 
