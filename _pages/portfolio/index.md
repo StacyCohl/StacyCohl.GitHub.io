@@ -147,14 +147,6 @@ gallery12:
     image_path: assets/images/casts/devil_baby_candle_raw_sm.jpeg
     alt: "Little Devil in hand"
     title: "Paraffin candle tinted deep smoke with original scent (in hand for scale)"
-  - url: /assets/images/casts/devil_baby_mold_pos_lg.jpeg
-    image_path: assets/images/casts/devil_baby_mold_pos_sm.jpeg
-    alt: "Little Devil mold positive"
-    title: "Secondary PlatSil Gel-25 mold with Hydrocal cast from original sculpture"
-  - url: /assets/images/casts/devil_baby_mold_neg_lg.jpeg
-    image_path: assets/images/casts/devil_baby_mold_neg_sm.jpeg
-    alt: "Little Devil mold negative"
-    title: "Negative of face in PlatSil Gel-25 mold"
   - url: /assets/images/casts/gold_ratboy_lg.jpeg
     image_path: assets/images/casts/gold_ratboy_sm.jpeg
     alt: "black and gold"
@@ -201,7 +193,16 @@ gallery15:
   - url: /assets/images/casts/og_head_candle_grape_lg.jpeg
     image_path: assets/images/casts/og_head_candle_grape_med.jpeg
     alt: "OG"
-    title: "Paraffin candle dyed to resemble grape soda, poured cool and swirled to produce bubble trails"         
+    title: "Paraffin candle dyed to resemble grape soda, poured cool and swirled to produce bubble trails"
+gallery16:
+  - url: /assets/images/casts/devil_baby_mold_pos_lg.jpeg
+    image_path: assets/images/casts/devil_baby_mold_pos_sm.jpeg
+    alt: "Little Devil mold positive"
+    title: "Secondary PlatSil Gel-25 mold with Hydrocal cast from original sculpture"
+  - url: /assets/images/casts/devil_baby_mold_neg_lg.jpeg
+    image_path: assets/images/casts/devil_baby_mold_neg_sm.jpeg
+    alt: "Little Devil mold negative"
+    title: "Negative of face in PlatSil Gel-25 mold"          
 ---
 
 # Finished Works 
@@ -272,6 +273,8 @@ _Molded silicone (PlatSil Gel-25) and plaster bandage mold_
 
 _Mold used to cast scented paraffin candles, Hydrocal Desk Friends, Cold Iron bookends, and much more_
 
+{% include gallery id="gallery16" layout="half" %}
+
 ***
 
 ## Tiny Taper and The Forgotten Bookshelf
@@ -301,7 +304,7 @@ _Life cast of model's pursed lips, remolded in silicone for wide range of castin
 _Cold cast copper with polyurethane fill (ArtKast with PolyPig "Black")
 Patinated with cupric sulfate (ArtNouveau “Tiffany Green” liquid patina)_
 
-{% include gallery id="gallery13" layout="third" %}
+{% include gallery id="gallery13" layout="half" %}
 
 ***
 
