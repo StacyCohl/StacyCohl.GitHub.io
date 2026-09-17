@@ -227,23 +227,31 @@ Check out the Process page where I explain the fabrication in detail!
 
 ***
 
-## Original Doll Head Candle
-
-_Paraffin candles made from silicone (PlatSil Gel-25) brush-on mold of un-modified porcelain doll head_
-
-{% include gallery id="gallery14" layout="third" %}
-
-***
-
 ## FaceBox
 
 _Hydrocal life cast of model's upper face using alginate and plaster bandage mold_
+
+_First time molding a face other than mine_
 
 _Finished with clear gloss and mounted in a cigar box with matte black interior_
 
 {% include gallery id="gallery1" layout="third" %}
 
-_First time molding a face other than mine_
+***
+
+## Little Devil
+
+_Sculpted new upper face/horns in Monster Clay over a porcelain doll head (given to me by a well-meaning relative "to use for your art things")_
+
+{% include video id="1220682753" provider="vimeo" %}
+
+_Molded silicone (PlatSil Gel-25) and plaster bandage mold_
+
+{% include gallery id="gallery16" layout="half" %}
+
+_Mold used to cast scented paraffin candles, Hydrocal Desk Friends, Cold Iron bookends, and much more_
+
+{% include gallery id="gallery12" layout="half" %}
 
 ***
 
@@ -261,19 +269,11 @@ _Wooden railing repurposed from thrifted birdhouse_
 
 ***
 
-## Little Devil
+## Original Doll Head Candle
 
-_Sculpted new upper face/horns in Monster Clay over a porcelain doll head (given to me by a well-meaning relative "to use for your art things")_
+_Paraffin candles made from silicone (PlatSil Gel-25) brush-on mold of un-modified porcelain doll head_
 
-{% include video id="1220682753" provider="vimeo" %}
-
-_Molded silicone (PlatSil Gel-25) and plaster bandage mold_
-
-{% include gallery id="gallery12" layout="half" %}
-
-_Mold used to cast scented paraffin candles, Hydrocal Desk Friends, Cold Iron bookends, and much more_
-
-{% include gallery id="gallery16" layout="half" %}
+{% include gallery id="gallery14" layout="third" %}
 
 ***
 
