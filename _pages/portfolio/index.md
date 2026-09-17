@@ -5,6 +5,8 @@ permalink: /portfolio/
 toc: true
 toc_sticky: true
 tagline: "Finished pieces, process explorations, material tests"
+header:
+  overlay_image: /assets/images/facebanner_lg.jpeg
 gallery1:
   - url: /assets/images/life/face_in_a_box_1_large.jpeg
     image_path: assets/images/life/face_in_a_box_1_small.jpeg
@@ -71,7 +73,6 @@ gallery6:
     alt: "looking down into the mold at the negative impression of my face and teeth in the light pink alginate; mold shell and mold walls made with white plaster bandage"
     title: "Negative of alginate mold with extended plaster bandage shell"
 gallery7:
-
   - url: /assets/images/life/birdie_finger_large.jpeg
     image_path: assets/images/life/birdie_finger_small.jpeg
     alt: "close up of my middle finger next to a pale grey cast of the same finger"
@@ -204,7 +205,7 @@ gallery15:
 
 # Finished Works 
 
-_Completed pieces with elements of molding/casting, representational sculpture, lifecasting, faux finishing, aging/weathering, and a couple drops of Pure Imagination.
+_Completed pieces with elements of molding/casting, representational sculpture, lifecasting, faux finishing, aging/weathering, and maybe a drop of Pure Imagination.
 
 ***
 
@@ -220,7 +221,7 @@ _Made with recycled paper clay, natural materials, and fiber filament; set insid
 
 Check out the Process page where I explain the fabrication in detail!
 
-button here
+[Process Page](https://stacycohl.com/process/){: .btn .btn--inverse}
 
 ***
 
@@ -234,44 +235,49 @@ _Paraffin candles made from silicone (PlatSil Gel-25) brush-on mold of un-modifi
 
 **FaceBox**
 
-_Hydrocal life cast of model's upper face using alginate and plaster bandage mold
-Finished with clear gloss and mounted in a cigar box with matte black interior_
+_Hydrocal life cast of model's upper face using alginate and plaster bandage mold_
 
-_First time molding a face other than mine_
+_Finished with clear gloss and mounted in a cigar box with matte black interior_
 
 {% include gallery id="gallery1" layout="third" %}
+
+_First time molding a face other than mine_
 
 ***
 
 **Love and Graves**
 
-_Stylized copper wire and polymer clay rose bush and briar
-Dried sheet moss groundcover
-Wooden railing repurposed from thrifted birdhouse
-Grave scene described in the folk song often called “Barbara Allen”_
+_Grave scene described in the folk song often called “Barbara Allen”_
 
 {% include gallery id="gallery8" layout="third" %}
+
+_Stylized copper wire and polymer clay rose bush and briar_
+
+_Dried sheet moss groundcover_
+
+_Wooden railing repurposed from thrifted birdhouse_
 
 ***
 
 **Little Devil**
 
-_Sculpted new upper face/horns in Monster Clay over a porcelain doll head 
-(given to me by a well-meaning relative "to use for your art things")_
+_Sculpted new upper face/horns in Monster Clay over a porcelain doll head (given to me by a well-meaning relative "to use for your art things")_
 
 {% include video id="1220682753" provider="vimeo" %}
 
-_Molded silicone (PlatSil Gel-25) and plaster bandage mold
-Mold used to cast scented paraffin candles, Hydrocal Desk Friends, Cold Iron bookends, and much more_
+_Molded silicone (PlatSil Gel-25) and plaster bandage mold_
 
 {% include gallery id="gallery12" layout="half" %}
+
+_Mold used to cast scented paraffin candles, Hydrocal Desk Friends, Cold Iron bookends, and much more_
 
 ***
 
 **Tiny Taper and The Forgotten Bookshelf**
 
-_1/12th scale taper candle (cocktail skewer and thread) with holder (polymer clay)
-1/12th scale cigar-box bookcase with fabric-covered books_
+_1/12th scale taper candle (cocktail skewer and thread) with holder (polymer clay)_
+
+_1/12th scale cigar-box bookcase with fabric-covered books_
 
 {% include gallery id="gallery10" layout="third" %}
 
@@ -281,8 +287,7 @@ _1/12th scale taper candle (cocktail skewer and thread) with holder (polymer cla
 
 # Process and Material Trials
 
-(rewrite me)
-Direct body molding with alginate (Accu-cast Genesis V) and medical-grade plaster bandage. Casts made from gypsum plaster (Hydrocal and Ultracal)
+(write me)
 
 ***
 
@@ -304,19 +309,21 @@ Patinated with cupric sulfate (ArtNouveau “Tiffany Green” liquid patina)_
 _Tested including teeth in face cast (both detail capture and model experience)
 Tested capturing subtly of "in-between" facial expressions_
 
-_Hydrocal life cast of my lower face using alginate mold with plaster bandage shell_
-
 {% include gallery id="gallery6" layout="third" %}
+
+_Hydrocal life cast of my lower face using alginate mold with plaster bandage shell_
 
 *** 
 
 **Italian Soda Candles**
 
-_Tested creating bubble patterns by varying wax temperatures and mold manipulation during casting
-Tested resulting opacity from various amounts of liquid paraffin dye
-Watermelon Soda, Cherry Soda, and Grape Soda_
+_Tested creating bubble patterns by varying wax temperatures and mold manipulation during casting_
+
+_Tested resulting opacity from various amounts of liquid paraffin dye_
 
 {% include gallery id="gallery15" layout="third" %}
+
+_Results: Watermelon Soda, Cherry Soda, and Grape Soda_
 
 ***
 
@@ -339,19 +346,20 @@ _Test success shown below_
 _Used thin horizontal lay-up mold of hand to test viability as a material saving alternative to container molds 
 Compared amount of skin displacement with vertical lay-up molds which tend to weigh down thinner/older/deeply textured skin_ 
 
+{% include gallery id="gallery3" layout="third" %}
+
 _Hydrocal life cast of older person's hand and wrist using alginate and plaster bandage mold 
 Finished with acrylics (washes and dry brush) and satin PVC clear coat_
-
-{% include gallery id="gallery3" layout="third" %}
 
 ***
 
 **Baby Brain Planter**
 
-_Silicone (PlatSil Gel-25) and plaster bandage mold of modified porcelain doll head
-Portland cement planters testing various viscosities of casting mix_
+_Silicone (PlatSil Gel-25) and plaster bandage mold of modified porcelain doll head_
 
 {% include gallery id="gallery11" layout="half" %}
+
+_Portland cement planters testing various viscosities of casting mix_
 
 ***
 
@@ -363,12 +371,8 @@ Life casts that have been or will be made incorporated into future projects
 
 **FriendFace**
 
-_Hydrocal life cast of model's lower face using alginate and plaster bandage mold_
-
 _Final cast marked for fiber filament placement (color indicates filament size)_
 
 {% include gallery id="gallery5" layout="third" %}
 
-
-
-
+_Hydrocal life cast of model's lower face using alginate and plaster bandage mold_
