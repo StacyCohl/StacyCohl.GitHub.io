@@ -7,6 +7,7 @@ toc_sticky: true
 tagline: "Finished pieces, process explorations, material tests"
 header:
   overlay_image: /assets/images/facebanner_lg.jpeg
+  caption: "test"
 gallery1:
   - url: /assets/images/life/face_in_a_box_1_large.jpeg
     image_path: assets/images/life/face_in_a_box_1_small.jpeg
@@ -209,11 +210,11 @@ _Completed pieces with elements of molding/casting, representational sculpture, 
 
 ***
 
-**Winter Wonder Wetland**
+## Winter Wonder Wetland
 
 _Mini re-creation of the wetland that surrounds The Discovery Center at Murfree Spring, with fiber optic firefly effect_
 
-{% include video id="1220682063" provider="vimeo" %}
+{% include video id="1225053959" provider="vimeo" %}
 
 _Made with recycled paper clay, natural materials, and fiber filament; set inside a life-size tree trunk plinth_
 
@@ -225,7 +226,7 @@ Check out the Process page where I explain the fabrication in detail!
 
 ***
 
-**Original Doll Head Candle**
+## Original Doll Head Candle
 
 _Paraffin candles made from silicone (PlatSil Gel-25) brush-on mold of un-modified porcelain doll head_
 
@@ -233,7 +234,7 @@ _Paraffin candles made from silicone (PlatSil Gel-25) brush-on mold of un-modifi
 
 ***
 
-**FaceBox**
+## FaceBox
 
 _Hydrocal life cast of model's upper face using alginate and plaster bandage mold_
 
@@ -245,7 +246,7 @@ _First time molding a face other than mine_
 
 ***
 
-**Love and Graves**
+## Love and Graves
 
 _Grave scene described in the folk song often called “Barbara Allen”_
 
@@ -259,7 +260,7 @@ _Wooden railing repurposed from thrifted birdhouse_
 
 ***
 
-**Little Devil**
+## Little Devil
 
 _Sculpted new upper face/horns in Monster Clay over a porcelain doll head (given to me by a well-meaning relative "to use for your art things")_
 
@@ -273,7 +274,7 @@ _Mold used to cast scented paraffin candles, Hydrocal Desk Friends, Cold Iron bo
 
 ***
 
-**Tiny Taper and The Forgotten Bookshelf**
+## Tiny Taper and The Forgotten Bookshelf
 
 _1/12th scale taper candle (cocktail skewer and thread) with holder (polymer clay)_
 
@@ -291,7 +292,7 @@ _1/12th scale cigar-box bookcase with fabric-covered books_
 
 ***
 
-**Kiss You**
+## Kiss You
 
 _Life cast of model's pursed lips, remolded in silicone for wide range of casting materials_
 
@@ -304,7 +305,7 @@ Patinated with cupric sulfate (ArtNouveau “Tiffany Green” liquid patina)_
 
 ***
 
-**Nearly Smiling**
+## Nearly Smiling
 
 _Tested including teeth in face cast (both detail capture and model experience)
 Tested capturing subtly of "in-between" facial expressions_
@@ -315,7 +316,7 @@ _Hydrocal life cast of my lower face using alginate mold with plaster bandage sh
 
 *** 
 
-**Italian Soda Candles**
+## Italian Soda Candles
 
 _Tested creating bubble patterns by varying wax temperatures and mold manipulation during casting_
 
@@ -327,7 +328,7 @@ _Results: Watermelon Soda, Cherry Soda, and Grape Soda_
 
 ***
 
-**Captured Marble**
+## Captured Marble
 
 _Tested molding and casting marble in situ so that marble is captured but can still spin_
 
@@ -341,19 +342,7 @@ _Test success shown below_
 
 ***
 
-**d'Hande**
-
-_Used thin horizontal lay-up mold of hand to test viability as a material saving alternative to container molds 
-Compared amount of skin displacement with vertical lay-up molds which tend to weigh down thinner/older/deeply textured skin_ 
-
-{% include gallery id="gallery3" layout="third" %}
-
-_Hydrocal life cast of older person's hand and wrist using alginate and plaster bandage mold 
-Finished with acrylics (washes and dry brush) and satin PVC clear coat_
-
-***
-
-**Baby Brain Planter**
+## Baby Brain Planter
 
 _Silicone (PlatSil Gel-25) and plaster bandage mold of modified porcelain doll head_
 
@@ -363,13 +352,25 @@ _Portland cement planters testing various viscosities of casting mix_
 
 ***
 
+## d'Hande
+
+_Used thin horizontal lay-up mold of hand to test viability as a material saving alternative to container molds_
+
+_Compared amount of skin displacement with vertical lay-up molds which tend to weigh down thinner/older/deeply textured skin_ 
+
+{% include gallery id="gallery3" layout="third" %}
+
+_Hydrocal life cast of older person's hand and wrist using alginate and plaster bandage mold_ 
+
+_Finished with acrylics (washes and dry brush) and satin PVC clear coat_
+
 ***
 
 # Components for Future Projects
 
 Life casts that have been or will be made incorporated into future projects
 
-**FriendFace**
+## FriendFace
 
 _Final cast marked for fiber filament placement (color indicates filament size)_
 
