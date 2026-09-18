@@ -340,9 +340,9 @@ _Test success shown below_
 
 ## Baby Brain Planter
 
-_Portland cement planters cast using silicone (PlatSil Gel-25) mold with plaster bandage shell of modified porcelain doll head_
+_Tested various cement-to-water ratios and types of agitation during casting_
 
-{% include gallery id="gallery11" layout="half" caption="Tested various cement-to-water ratios and types of agitation during casting" %}
+{% include gallery id="gallery11" layout="half" caption="Portland cement planters cast using silicone (PlatSil Gel-25) mold with plaster bandage shell of modified porcelain doll head" %}
 
 ***
 
