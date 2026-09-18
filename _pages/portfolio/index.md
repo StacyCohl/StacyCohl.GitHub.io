@@ -326,9 +326,9 @@ _Tested resulting opacity from various amounts of liquid paraffin dye_
 
 ## Captured Marble
 
-_Tested molding a hand holding a marble and casting with the marble left in place within the mold_ 
+_Molded the model's hand holding a marble between his fingers, removed the model's hand leaving the marble inside the mold, then cast into the mold cavity and around the marble_ 
 
-_The marble is captured but can still spin_
+_The resulting cast keeps the marble in place but it can still spin_
 
 {% include gallery id="gallery2" layout="third" caption="Hydrocal life cast of model's hand holding a marble using alginate (Accu-cast Genesis V) mold" %}
 
