@@ -207,7 +207,8 @@ gallery16:
 
 # Finished Works 
 
-Completed pieces with elements of molding/casting, representational sculpture, lifecasting, faux finishing, aging/weathering, and maybe a drop of Pure Imagination.
+Completed pieces with elements of molding/casting, representational sculpture, lifecasting, faux finishing, aging/weathering, and maybe a drop of Pure Imagination
+{: .text-center}
 
 ***
 
@@ -245,7 +246,7 @@ _Molded using silicone (PlatSil Gel-25) brush-on mold with plaster bandage shell
 
 {% include gallery id="gallery16" layout="half" %}
 
-_Mold used to cast scented paraffin candles, Hydrocal Desk Friends, Cold Iron bookends, and much more_
+_Mold used to cast scented paraffin candles, Hydrocal Desk Friends, cold cast steel bookends, and much more_
 
 {% include gallery id="gallery12" layout="half" %}
 
@@ -351,7 +352,7 @@ _Tested detail preservation of horizontal lay-up mold as a material saving alter
 
 _Compared amount of skin displacement with vertical lay-up molds which tend to weigh down thinner/older/deeply textured skin_ 
 
-{% include gallery id="gallery3" layout="third" caption"Hydrocal life cast of older person's hand using thin horizontal alginate (Accu-cast Genesis V) lay-up mold" %}
+{% include gallery id="gallery3" layout="third" caption="Hydrocal life cast of older person's hand using thin horizontal alginate (Accu-cast Genesis V) lay-up mold" %}
 
 ***
 
