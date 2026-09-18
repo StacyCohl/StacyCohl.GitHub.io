@@ -207,7 +207,7 @@ gallery16:
 
 # Finished Works 
 
-_Completed pieces with elements of molding/casting, representational sculpture, lifecasting, faux finishing, aging/weathering, and maybe a drop of Pure Imagination.
+Completed pieces with elements of molding/casting, representational sculpture, lifecasting, faux finishing, aging/weathering, and maybe a drop of Pure Imagination.
 
 ***
 
@@ -215,24 +215,20 @@ _Completed pieces with elements of molding/casting, representational sculpture, 
 
 _Mini re-creation of the wetland that surrounds The Discovery Center at Murfree Spring, with fiber optic firefly effect_
 
-{% include video id="1225053959" provider="vimeo" %}
+{% include video id="1220682063" provider="vimeo" %}
 
 _Made with recycled paper clay, natural materials, and fiber filament; set inside a life-size tree trunk plinth_
 
 {% include gallery id="gallery9" layout="third" %}
 
-Check out the Process page where I explain the fabrication in detail!
-
-[Process Page](https://stacycohl.com/process/){: .btn .btn--inverse}
+[Process Page](https://stacycohl.com/process/){: .btn .btn--inverse} Check out the Process page where I explain the fabrication in detail
 
 ***
 
 ## FaceBox
 
 _Hydrocal life cast of model's upper face using alginate and plaster bandage mold_
-
 _First time molding a face other than mine_
-
 _Finished with clear gloss and mounted in a cigar box with matte black interior_
 
 {% include gallery id="gallery1" layout="third" %}
