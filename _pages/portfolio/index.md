@@ -104,22 +104,18 @@ gallery9:
     image_path: assets/images/wetland/full_sm.jpeg
     alt: "swamp"
     title: "The completed piece, with diorama set inside hollow tree sculpture"
-  - url: /assets/images/wetland/mini_swamp_5_large.jpeg
-    image_path: assets/images/wetland/mini_swamp_5_small.jpeg
+  - url: /assets/images/wetland/still.jpeg
+    image_path: assets/images/wetland/still_sm.jpeg
     alt: "swamp"
-    title: "Close-up of recent beaver tooth marks on copse of young trees"
-  - url: /assets/images/wetland/mini_swamp_3_large.jpeg
-    image_path: assets/images/wetland/mini_swamp_3_small.jpeg
+    title: "Close-up of forest floor"
+  - url: /assets/images/wetland/beaver_lg.jpeg
+    image_path: assets/images/wetland/beaver_sm.jpeg
     alt: "swamp"
     title: "Water’s edge on the right of the scene, showing leaf mat, lichen and moss, Bald Cypress, flood rings, and beaver activity"
   - url: /assets/images/wetland/grass_lg.jpeg
     image_path: assets/images/wetland/grass_sm.jpeg
     alt: "swamp"
     title: "Grasses made with chip brush bristles; real leaves and lichen"
-  - url: /assets/images/wetland/mini_swamp_6_large.jpeg
-    image_path: assets/images/wetland/mini_swamp_6_small.jpeg
-    alt: "swamp"
-    title: "Water’s edge on the left of the scene, showing high flood rings and stunted tree growth"
 gallery10:    
   - url: /assets/images/taper/tiny_candle_finger_large.jpeg
     image_path: assets/images/taper/tiny_candle_finger_small.jpeg
@@ -220,7 +216,7 @@ _Mini re-creation of the wetland that surrounds The Discovery Center at Murfree 
 
 _Made with recycled paper clay, natural materials, and fiber filament; set inside a life-size tree trunk plinth_
 
-{% include gallery id="gallery9" layout="third" %}
+{% include gallery id="gallery9" layout="half" %}
 
 [Process Page](https://stacycohl.com/process/){: .btn .btn--inverse} Check out the Process page where I explain the fabrication in detail
 
