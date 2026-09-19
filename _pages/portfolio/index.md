@@ -99,11 +99,11 @@ gallery9:
   - url: /assets/images/wetland/mini_swamp_1_large.jpeg
     image_path: assets/images/wetland/mini_swamp_1_small.jpeg
     alt: "begin swamp"
-    title: "high shot slight angle"
-  - url: /assets/images/wetland/mini_swamp_2_large.jpeg
-    image_path: assets/images/wetland/mini_swamp_2_small.jpeg
+    title: "The full wetland without the surrounding tree"
+  - url: /assets/images/wetland/full_lg.jpeg
+    image_path: assets/images/wetland/full_sm.jpeg
     alt: "swamp"
-    title: "less high shot front"
+    title: "The completed piece, with diorama set inside hollow tree sculpture"
   - url: /assets/images/wetland/mini_swamp_5_large.jpeg
     image_path: assets/images/wetland/mini_swamp_5_small.jpeg
     alt: "swamp"
@@ -111,11 +111,11 @@ gallery9:
   - url: /assets/images/wetland/mini_swamp_3_large.jpeg
     image_path: assets/images/wetland/mini_swamp_3_small.jpeg
     alt: "swamp"
-    title: "Water’s edge on the right of the scene, showing leaf mat succession, lichen and moss, Bald Cypress with knees, flood rings, beaver activity, and invasive vines"
-  - url: /assets/images/wetland/mini_swamp_vine_large.jpeg
-    image_path: assets/images/wetland/mini_swamp_vine_small.jpeg
+    title: "Water’s edge on the right of the scene, showing leaf mat, lichen and moss, Bald Cypress, flood rings, and beaver activity"
+  - url: /assets/images/wetland/grass_lg.jpeg
+    image_path: assets/images/wetland/grass_sm.jpeg
     alt: "swamp"
-    title: "Tree showing callus tissue formation after beaver damage. Grasses made with chip brush bristles, twine for the vine(s)"
+    title: "Grasses made with chip brush bristles; real leaves and lichen"
   - url: /assets/images/wetland/mini_swamp_6_large.jpeg
     image_path: assets/images/wetland/mini_swamp_6_small.jpeg
     alt: "swamp"
