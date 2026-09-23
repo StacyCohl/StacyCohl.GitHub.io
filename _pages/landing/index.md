@@ -11,14 +11,6 @@ excerpt: "Fabricator and fantasist"
 intro: 
   - excerpt: 'Finished pieces, technical explorations, and fabrication processes'
 feature_row:
-  - image_path: assets/images/landing/life_dead_med.jpeg
-    image_caption: "Fine detail capture"
-    alt: "Fine detail capture in hand cast"
-    title: "Process and Material Trials"
-    excerpt: "Skills-building, process refinement, material development"
-    url: "https://stacycohl.com/portfolio/#process-and-material-trials"
-    btn_label: "See pieces"
-    btn_class: "btn--inverse"
   - image_path: /assets/images/landing/mini_graves_med.jpeg
     image_caption: "Roughly 1/12th scale"
     alt: "Roughly 1/12th scale grave scene"
@@ -27,7 +19,15 @@ feature_row:
     url: "https://stacycohl.com/portfolio/#finished-works"
     btn_label: "See pieces"
     btn_class: "btn--inverse"
-  - image_path: assets/images/process/insidelight_sm.jpeg
+  - image_path: assets/images/landing/life_dead_med.jpeg
+    image_caption: "Fine detail capture"
+    alt: "Fine detail capture in hand cast"
+    title: "Process and Material Trials"
+    excerpt: "Skills-building, process refinement, material development"
+    url: "https://stacycohl.com/portfolio/#process-and-material-trials"
+    btn_label: "See pieces"
+    btn_class: "btn--inverse"
+  - image_path: assets/images/landing/process_lg.jpeg
     image_caption: "Mini wetland diorama"
     alt: "Mini wetland diorama"
     title: "Fabrication Process"
