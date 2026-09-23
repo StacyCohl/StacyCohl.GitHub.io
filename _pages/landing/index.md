@@ -6,42 +6,32 @@ permalink: /
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_image: /assets/images/me_banner2.jpeg
-  caption: "Making tiny wetland diorama inside life-size stump"
 excerpt: "Fabricator and fantasist"
 intro: 
-  - excerpt: 'See pieces grouped by category with the buttons below, and check out the Process page for the full Mini Wetland fabrication story'
+  - excerpt: 'Finished pieces, technical explorations, and fabrication processes'
 feature_row:
   - image_path: assets/images/landing/life_dead_med.jpeg
-    image_caption: "Close-up of hand cast"
-    alt: "placeholder image 1"
-    title: "Lifecasting"
-    excerpt: "All models were alive at the time of molding"
-    url: "https://stacycohl.com/portfolio/#lifecasting"
+    image_caption: "Fine detail capture"
+    alt: "Fine detail capture in hand cast"
+    title: "Process and Material Trials"
+    excerpt: "Taking "show your work" literally"
+    url: "https://stacycohl.com/portfolio/#process-and-material-trials"
     btn_label: "See pieces"
     btn_class: "btn--inverse"
   - image_path: /assets/images/landing/mini_graves_med.jpeg
     image_caption: "Roughly 1/12th scale"
-    alt: "placeholder image 2"
-    title: "Minis & Scenic"
-    excerpt: "Smaller versions of life-sized things"
-    url: "https://stacycohl.com/portfolio/#minis--scenic"
+    alt: "Roughly 1/12th scale grave scene"
+    title: "Finished Pieces"
+    excerpt: "Projects brought to fruition"
+    url: "https://stacycohl.com/portfolio/#finished-works"
     btn_label: "See pieces"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/landing/casts_planter_med.jpeg
-    image_caption: "Baby Brain Planter (cement)"
-    alt: "cement cast from mold of porcelain doll head"
-    title: "Casts & Faux"
-    excerpt: "Molds/casts & faux finishes"
-    url: "https://stacycohl.com/portfolio/#casts--faux"
-    btn_label: "See pieces"
-    btn_class: "btn--inverse" 
-feature_row2:  
   - image_path: assets/images/process/insidelight_sm.jpeg
     image_caption: "Mini wetland diorama"
-    alt: "placeholder image 1"
-    title: "Process"
+    alt: "Mini wetland diorama"
+    title: "Fabrication Process"
     excerpt: "Making a tiny wetland"
-    url: "https://stacycohl.com/process/#mini-wetland-diorama"
+    url: "https://stacycohl.com/process/"
     btn_label: "See process"
     btn_class: "btn--inverse"      
 ---
@@ -50,5 +40,3 @@ feature_row2:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
-
-{% include feature_row id="feature_row2" type="center" %}
