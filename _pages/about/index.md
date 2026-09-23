@@ -13,4 +13,4 @@ I held my breath while we peeled away the pink alginate and revealed this solid 
 
 I realized there is subtle power in shifting something ordinary just enough to cause a momentary glitch in viewers' expectations. Whether it's an anatomical replica in cement, a ubiquitous object on a tiny scale, or a faithful recreation of an inaccessible place, the glitch allows viewers to find new aspects of the familiar and gain fresh perspectives on the everyday. 
 
-{% include video id="1222545595" provider="vimeo" %}
+<iframe src="https://player.vimeo.com/video/1222545595?background=1" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
