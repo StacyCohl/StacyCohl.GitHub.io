@@ -3,7 +3,7 @@ permalink: /about/
 title: "About me"
 tagline: "I'm Stacy and I'm a Maker"
 header:
-  overlay_image: /assets/facebanner_lg.jpeg
+  overlay_image: /assets/images/facebanner2_lg.jpeg
   caption: test
 ---
 
