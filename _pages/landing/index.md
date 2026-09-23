@@ -15,7 +15,7 @@ feature_row:
     image_caption: "Fine detail capture"
     alt: "Fine detail capture in hand cast"
     title: "Process and Material Trials"
-    excerpt: "Taking "show your work" literally"
+    excerpt: "Skills-building, process refinement, material development"
     url: "https://stacycohl.com/portfolio/#process-and-material-trials"
     btn_label: "See pieces"
     btn_class: "btn--inverse"
