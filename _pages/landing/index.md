@@ -6,6 +6,7 @@ permalink: /
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_image: /assets/images/me_banner2.jpeg
+  caption: "There is never not a cat nearby"
 excerpt: "Fabricator and fantasist"
 intro: 
   - excerpt: 'Finished pieces, technical explorations, and fabrication processes'
