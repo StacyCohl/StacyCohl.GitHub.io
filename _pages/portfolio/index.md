@@ -212,7 +212,7 @@ Completed pieces with elements of molding/casting, representational sculpture, l
 
 _Mini re-creation of the wetland that surrounds The Discovery Center at Murfree Spring, with fiber optic firefly effect_
 
-{% include video id="1220682063" provider="vimeo" %}
+<iframe src="https://player.vimeo.com/video/1220682063?background=1" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>;
 
 _Made with recycled paper clay, natural materials, and fiber filament; set inside a life-size tree trunk plinth_
 
