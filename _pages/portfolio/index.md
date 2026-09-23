@@ -212,13 +212,27 @@ Completed pieces with elements of molding/casting, representational sculpture, l
 
 _Mini re-creation of the wetland that surrounds The Discovery Center at Murfree Spring, with fiber optic firefly effect_
 
-<iframe src="https://player.vimeo.com/video/1220682063?background=1" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>;
+<iframe src="https://player.vimeo.com/video/1220682063?background=1" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 _Made with recycled paper clay, natural materials, and fiber filament; set inside a life-size tree trunk plinth_
 
 {% include gallery id="gallery9" layout="half" %}
 
 [Process Page](https://stacycohl.com/process/){: .btn .btn--inverse} Check out the Process page where I explain the fabrication in detail
+
+***
+
+## Little Devil
+
+<iframe src="https://player.vimeo.com/video/1220682753?background=1" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>_Sculpted new upper face/horns in Monster Clay over a porcelain doll head given to me by a well-meaning relative "to use for your art things"_
+
+_Molded using silicone (PlatSil Gel-25) brush-on mold with plaster bandage shell_
+
+{% include gallery id="gallery16" layout="half" %}
+
+_Mold used to cast scented paraffin candles, Hydrocal Desk Friends, cold cast steel bookends, and much more_
+
+{% include gallery id="gallery12" layout="half" %}
 
 ***
 
@@ -229,22 +243,6 @@ _Finished with clear gloss PVC and mounted in a cigar box with matte black inter
 _First time molding a face other than mine_
 
 {% include gallery id="gallery1" layout="third" caption="Hydrocal life cast of model's upper face using alginate (Accu-cast Genesis V) mold with plaster bandage shell" %}
-
-***
-
-## Little Devil
-
-_Sculpted new upper face/horns in Monster Clay over a porcelain doll head given to me by a well-meaning relative "to use for your art things"_
-
-{% include video id="1220682753" provider="vimeo" %}
-
-_Molded using silicone (PlatSil Gel-25) brush-on mold with plaster bandage shell_
-
-{% include gallery id="gallery16" layout="half" %}
-
-_Mold used to cast scented paraffin candles, Hydrocal Desk Friends, cold cast steel bookends, and much more_
-
-{% include gallery id="gallery12" layout="half" %}
 
 ***
 
@@ -288,7 +286,7 @@ _1/12th scale cigar-box bookcase with fabric-covered books_
 
 _Cold copper resin cast and paraffin wax melt from life cast of model's pursed lips_
 
-{% include video id="1222908394" provider="vimeo" %}
+<iframe src="https://player.vimeo.com/video/1222908394?background=1" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 _Finish test of copper powder backed with ArtKast polyurethane resin_
 
@@ -330,7 +328,7 @@ _The resulting cast keeps the marble in place but it can still spin_
 
 _Test success shown below_
 
-{% include video id="1220682009" provider="vimeo" %}
+<iframe src="https://player.vimeo.com/video/1220682009?background=1" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ***
 
