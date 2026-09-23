@@ -7,7 +7,7 @@ header:
   caption: test
 ---
 
-![Stacy with cast of hand on shoulder](/assets/images/about/wednesday_sm.jpeg){: .align-left} My first life cast was my left hand and wrist in 2016, molded in a Quick Oats carton in my friend TJ’s kitchen. 
+![Stacy with cast of hand on shoulder](/assets/images/about/wednesday_sm.jpeg){: .align-right} My first life cast was my left hand and wrist in 2016, molded in a Quick Oats carton in my friend TJ’s kitchen. 
 
 I held my breath while we peeled away the pink alginate and revealed this solid plastic hand. I consciously knew it was my hand, all its details familiar and visible, but now the textures, proportions, and shapes registered as starkly new. 
 
