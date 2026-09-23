@@ -6,8 +6,8 @@ toc: true
 toc_sticky: true
 tagline: "Finished pieces, process explorations, material tests"
 header:
-  overlay_image: /assets/images/facebanner_lg.jpeg
-  caption: "test"
+  overlay_image: /assets/images/teeth_lg.jpeg
+  caption: "with unrivaled enthusiasm"
 gallery1:
   - url: /assets/images/life/face_in_a_box_1_large.jpeg
     image_path: assets/images/life/face_in_a_box_1_small.jpeg
