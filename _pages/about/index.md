@@ -1,14 +1,15 @@
 ---
 permalink: /about/
-title: "About"
+title: "About me"
+tagline: "I'm Stacy and I'm a Maker"
 header:
-  video:
-    id: 1222545595
-    provider: vimeo
+  overlay_image: /assets/images/me_banner1.jpeg
+  caption: test
 layout: single
 classes: wide
 ---
-## I'm Stacy and I'm a Maker
+
+{% include video id="1222545595" provider="vimeo" %}
 
 ![Stacy with cast of hand on shoulder](/assets/images/about/wednesday_sm.jpeg){: .align-left} My first life cast was my left hand and wrist in 2016, molded in a Quick Oats carton in my friend TJ’s kitchen. 
 
