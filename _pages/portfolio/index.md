@@ -278,6 +278,9 @@ _1/12th scale cigar-box bookcase with fabric-covered books_
 
 # Process and Material Trials
 
+Perfecting established processes and testing the limits of molding/casting media
+{: .text-center}
+
 ***
 
 ## Kiss You
