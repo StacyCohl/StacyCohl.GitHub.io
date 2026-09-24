@@ -1,6 +1,6 @@
 ---
 title: "Fabrications, Reproductions, Unique Creations"
-tagline: "_Molding and casting fabricator and scenic re-creationist of 10+ years, specializing in lifecasting and scaled representational sculpture_"
+tagline: "_Molding and casting fabricator and scenic re-creationist of 15+ years, specializing in lifecasting and scaled representational sculpture_"
 layout: splash
 permalink: /
 date: 2016-03-23T11:48:41-04:00
