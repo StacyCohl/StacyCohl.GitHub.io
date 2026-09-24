@@ -212,19 +212,19 @@ I was the Artist in Residence for 2020/21 at The Discovery Center at Murfree Spr
 
 ***
 
-To catch viewers' attention and encourage them to look more closely within the diorama, I added the illusion of fireflies in the wetland. Fireflies are usually summer bugs, but museum educators agreed that the immediate viewer impact (and sheer whimsy) warranted inclusion in this winter scene.  
-
-{% include gallery id="gallery17" %}
-
-The viewer would have similar focus difficulty as they do on nature walks if the diorama were displayed in full view by itself. To create context and promote deep observation, I re-created a hollow tree stump as a plinth and set the diorama inside behind a crack in the bark. 
+Like during nature walks, I expected viewers could have difficulty focusing on any particular detail within the diorama, especially from a distance. In order to promote closer viewing and deeper exploration of details, I set the diorama inside a hollow tree stump with a crack in the bark.
 
 {% include gallery id="gallery16" %}
 
-The viewer feels like they’re exploring inside the tiny wetland at twilight, their attention drawn to different parts of the landscape as the fireflies blink on and off. 
+To hold viewers' attention and encourage them to look more closely around the diorama, I added the illusion of fireflies in the wetland. Fireflies are usually summer bugs, but museum educators agreed that the immediate viewer impact (and sheer whimsy) warranted inclusion in this winter scene.  
+
+{% include gallery id="gallery17" %}
+
+When you get close to look inside the tree, it feels like you’re wandering through a tiny wetland at twilight, your attention drawn through the landscape by twinkling fireflies. 
 
 {% include gallery id="gallery14" %}
 
-While I was certainly proud of the result, it was the visitors’ reactions that assured me I'd gotten something right—  kids and adults alike taking turns to peer into the world in the hollow tree, eyes wide, inching closer and closer until they bump into the plexiglass. 
+I was proud of my work, but it was viewers’ reactions that assured me of the result:  kids, parents, and staff taking turns to peer into the world in the hollow tree, eyes wide, inching closer as they discover more to see. 
 
 ***
 
@@ -244,13 +244,13 @@ To make fireflies, I embedded fiber optic filaments in the clay layers, and ran 
 
 {% include gallery id="gallery3" layout="half" %}
 
-I used fallen leaves, lichen, and stones from the Murfree Spring wetland. Chip brush bristles for grasses and vines made of twine.
+I used fallen leaves, lichen, and stones from the Murfree Spring wetland. I made grasses from chip brush bristles and vines from twine.
 
 {% include gallery id="gallery8" layout="half" %} 
 
 {% include gallery id="gallery9" layout="third" %}
 
-I made life-sized polypores for the exterior tree from wire mesh covered with paper clay. To attach them, I bent the mesh into a lip at the base and stapled them to the cardboard cladding before adding the exterior bark. 
+I made life-sized polypores for the exterior tree from wire mesh covered with paper clay. To attach them, I bent the mesh into a lip at the base to staple them to the cardboard cladding before adding the exterior bark. 
 
 {% include gallery id="gallery7" layout="third" %}
 
@@ -260,13 +260,13 @@ I made life-sized polypores for the exterior tree from wire mesh covered with pa
 
 ***
 
-During nature walks at The Discovery Center, educators discuss subjects like how the forest floor forms, how beavers affect trees, the unique growth pattern of Bald Cypress roots, and how a tree's flood rings record water level history. 
+During nature walks at The Discovery Center, educators discuss subjects like how the forest floor forms, how beavers impact trees, the unique roots of Bald Cypresses, and how flood rings can show water level history. 
 
 Below are some examples of these subjects from my diorama:
 
 ***Forest Floor***
 
-To mimic leaf mat decomposition on the forest floor, I crushed real leaves to scale by hand and applied them in layers. I sealed each layer with thinned PVA I tinted brown, which mimics leaves turning into loam. I left the top layer unsealed, preserving the variance of the sheen on the leaves.
+To mimic leaf mat decomposition on the forest floor, I crushed real leaves to scale by hand and applied them in layers. I sealed each layer with thinned PVA I tinted brown, which mimics the leaves decaying into loam. I left the top layer unsealed, preserving the variance of the sheen on the leaves.
 
 {% include gallery id="gallery5" layout="third" %}
 
@@ -284,7 +284,7 @@ Bald Cypress tree roots grow in a unique form called "knees."
 
 ***Flood Rings on Trees***
 
-With acrylic paints, I added rings of algae around the trees that show the history of flooding in the wetland.
+With acrylic paints, I added various levels of algae rings around the trees, marking the history of flooding in the wetland.
 
 {% include gallery id="gallery4" layout="third" %} 
 
