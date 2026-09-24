@@ -278,8 +278,6 @@ _1/12th scale cigar-box bookcase with fabric-covered books_
 
 # Process and Material Trials
 
-(write me)
-
 ***
 
 ## Kiss You
